@@ -1,0 +1,67 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for November, 2014, generated on 2014/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 475
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-19 ; Times: 1
+	Date: 2014-11-20 ; Times: 2
+	Date: 2014-11-21 ; Times: 1
+	Date: 2014-11-22 ; Times: 1
+	Date: 2014-11-26 ; Times: 1
+	Date: 2014-11-28 ; Times: 13
+	Date: 2014-11-29 ; Times: 2
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "calyptocephalella" ; Times: 1
+	Query: "hadrosauridae" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "genus:Rhinoceros" ; Times: 1
+	Query: "borophaginae" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "triceratops horridus" ; Times: 1
+	Query: "hadrosauridae hill" ; Times: 13
+	Query: "class:Aves institutioncode:YPM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 22
+Total number of records retrieved from searches: 475
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 22
+Total number of records retrieved from searches: 475
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
