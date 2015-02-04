@@ -1,0 +1,174 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 652
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 4
+	Country: France ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 1
+	Date: 2015-01-02 ; Times: 1
+	Date: 2015-01-08 ; Times: 2
+	Date: 2015-01-09 ; Times: 1
+	Date: 2015-01-12 ; Times: 3
+	Date: 2015-01-13 ; Times: 2
+	Date: 2015-01-15 ; Times: 4
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-18 ; Times: 4
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 10
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-23 ; Times: 4
+	Date: 2015-01-25 ; Times: 2
+	Date: 2015-01-26 ; Times: 9
+	Date: 2015-01-27 ; Times: 1
+	Date: 2015-01-28 ; Times: 7
+	Date: 2015-01-29 ; Times: 4
+	Date: 2015-01-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus Adamanteus stateprovince:"Florida"" ; Times: 1
+	Query: "Caudiverbera caudiverbera" ; Times: 2
+	Query: "Sistrurus Arizona" ; Times: 9
+	Query: "edmontosaurus" ; Times: 1
+	Query: "institutioncode:ypm Chrysemys" ; Times: 1
+	Query: "parasaurolophus" ; Times: 1
+	Query: "lorisidae fossil:1" ; Times: 2
+	Query: "Pantolambda" ; Times: 1
+	Query: "Icarosaurus" ; Times: 1
+	Query: "hippopotamus" ; Times: 1
+	Query: "stateprovince:"Illinois" class:amphibia institutioncode:YPM" ; Times: 1
+	Query: "chasmosaurus" ; Times: 1
+	Query: "YPM 016970" ; Times: 2
+	Query: "mosasaur" ; Times: 1
+	Query: "MBR 4368" ; Times: 1
+	Query: "institutioncode:ypm Emydoidea" ; Times: 2
+	Query: "diplodocus" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "hadrosauridae hill" ; Times: 1
+	Query: "tenontosaurus" ; Times: 1
+	Query: "Caenolambda" ; Times: 1
+	Query: "genus:Marmota institutioncode:ypm" ; Times: 1
+	Query: "class:Sarcopterygii fossil:1" ; Times: 1
+	Query: "UCMP" ; Times: 1
+	Query: "sea turtles" ; Times: 2
+	Query: "Archaeopteryx" ; Times: 1
+	Query: ""stylemys nebrascensis" type:specimen fossil:1" ; Times: 1
+	Query: "hesperornis" ; Times: 1
+	Query: "Snake Creek class:Mammalia year >= 1929 year <= 1969" ; Times: 1
+	Query: "(reptilia amphibia south dakota)" ; Times: 1
+	Query: "carnivorous" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "gopherus type:specimen fossil:1" ; Times: 2
+	Query: "Kuehneosaurus" ; Times: 1
+	Query: "reptilia amphibia south dakota" ; Times: 1
+	Query: "glyptodon" ; Times: 1
+	Query: "Captorhinus" ; Times: 1
+	Query: "stylemys" ; Times: 1
+	Query: "proboscidean" ; Times: 2
+	Query: "dorudon" ; Times: 1
+	Query: "Parasaurolophus" ; Times: 1
+	Query: "Glyptodontidae" ; Times: 1
+	Query: "Prolacerta" ; Times: 1
+	Query: "orang utan" ; Times: 1
+	Query: "machairodus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 445 download events in this period)
+Total number of records downloaded: 6486 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 5793
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Portugal ; Times: 2
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-03 ; Times: 1
+	Date: 2015-01-04 ; Times: 7
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-08 ; Times: 3
+	Date: 2015-01-12 ; Times: 4
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-18 ; Times: 2
+	Date: 2015-01-21 ; Times: 2
+	Date: 2015-01-22 ; Times: 1
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-28 ; Times: 3
+	Date: 2015-01-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Salamandra" ; Times: 1
+	Query: "Snake Creek class:Mammalia year >= 1929 year <= 1969" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "Pilosa" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia institutioncode:YPM" ; Times: 1
+	Query: "stateprovince:"Minnesota" class:Mammalia" ; Times: 2
+	Query: "Procyon lotor" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia year <= 2014" ; Times: 1
+	Query: "canidae skull" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Aves" ; Times: 1
+	Query: "myotis myotis" ; Times: 1
+	Query: "Pitheciidae" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: ""stylemys nebrascensis" type:specimen fossil:1" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "county:"Rosebud" stateprovince:"Montana"" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:aves" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "stateprovince:"Kentucky" class:mammalia" ; Times: 1
+	Query: "type:specimen stateprovince:"virginia" class:aves" ; Times: 1
+	Query: "gopherus type:specimen fossil:1" ; Times: 1
+	Query: "Ctenomys" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: "Discoglossus" ; Times: 1
+	Query: "Atelidae" ; Times: 1
+	Query: "type:specimen class:mammalia hastypestatus:1" ; Times: 1
+	Query: "dermoptera" ; Times: 1
+	Query: "mummery" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 35
+Total number of records retrieved from searches: 517
+Number of download events that retrieved data from the resource: 33
+Total number of records downloaded: 6486
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 95
+Total number of records retrieved from searches: 1169
+Number of download events that retrieved data from the resource: 48
+Total number of records downloaded: 41090
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
