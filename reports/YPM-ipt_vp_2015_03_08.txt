@@ -1,0 +1,118 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 137
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Serbia ; Times: 1
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 6
+	Date: 2015-02-06 ; Times: 2
+	Date: 2015-02-09 ; Times: 2
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-17 ; Times: 2
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-19 ; Times: 2
+	Date: 2015-02-20 ; Times: 3
+	Date: 2015-02-21 ; Times: 1
+	Date: 2015-02-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "county:"Los Angeles" stateprovince:"California" genus:Canis year >= 1800 year <= 2100" ; Times: 1
+	Query: "arctomys" ; Times: 2
+	Query: "Glyptodon" ; Times: 1
+	Query: "county:"sweetwater" stateprovince:"wyoming" class:actinopterygii" ; Times: 1
+	Query: "nimravidae (juvenile)" ; Times: 2
+	Query: "lindae" ; Times: 2
+	Query: "machairodus" ; Times: 1
+	Query: "genus:tyrannosaurus" ; Times: 1
+	Query: "machairodontinae (juvenile)" ; Times: 1
+	Query: "Lepidosiren" ; Times: 2
+	Query: "001247" ; Times: 1
+	Query: "Arizona county:"kern"" ; Times: 1
+	Query: "genus:tyrannosaurus fossil:1" ; Times: 1
+	Query: "giant panda" ; Times: 1
+	Query: "class:Mammalia Homo sapiens" ; Times: 1
+	Query: "type:specimen stateprovince:"Nevada" institutioncode:YPM" ; Times: 1
+	Query: "testudo" ; Times: 1
+	Query: "lepidosiren" ; Times: 1
+	Query: "Platyceps class:Reptilia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 326 download events in this period)
+Total number of records downloaded: 462 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 426
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 3
+	Date: 2015-02-03 ; Times: 1
+	Date: 2015-02-04 ; Times: 1
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 2
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-13 ; Times: 3
+	Date: 2015-02-14 ; Times: 1
+	Date: 2015-02-18 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+	Date: 2015-02-24 ; Times: 3
+	Date: 2015-02-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Heloderma" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Anura" ; Times: 1
+	Query: "genus:Heloderma" ; Times: 2
+	Query: "stateprovince:"Kentucky"" ; Times: 1
+	Query: "genus:Balaena" ; Times: 1
+	Query: "country:"ecuador"" ; Times: 1
+	Query: "specificepithet:fulvius genus:micrurus year >= 1950 year <= 2015" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "CHILE" ; Times: 1
+	Query: "sistrurus" ; Times: 2
+	Query: "Leptodactylidae" ; Times: 2
+	Query: "type:specimen stateprovince:"California" institutioncode:YPM" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:amphibia" ; Times: 1
+	Query: "stateprovince:"North Dakota" class:mammalia year >= 1995 year <= 2014" ; Times: 1
+	Query: "Carnivora county:"Los Angeles" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 58
+Total number of records retrieved from searches: 654
+Number of download events that retrieved data from the resource: 53
+Total number of records downloaded: 6948
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 118
+Total number of records retrieved from searches: 1306
+Number of download events that retrieved data from the resource: 68
+Total number of records downloaded: 41552
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
