@@ -1,0 +1,101 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 197
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 2
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-07 ; Times: 1
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-19 ; Times: 2
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-23 ; Times: 1
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:000250" ; Times: 1
+	Query: "toxodon" ; Times: 1
+	Query: "Kachuga kachuga AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Kachuga tecta AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Elephantidae" ; Times: 3
+	Query: "Theosodon" ; Times: 3
+	Query: "hyaena" ; Times: 1
+	Query: "Ranidae AND (NOT preservedspecimen NOT fluid specimen NOT observation)" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "redpath museum" ; Times: 1
+	Query: "Rana type:specimen AND (NOT preservedspecimen NOT preserved NOT fluid specimen)" ; Times: 1
+	Query: "brontosaurus" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 2
+	Query: "(Caiman) media:1" ; Times: 1
+	Query: "testudo" ; Times: 2
+	Query: "symbos" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 298 download events in this period)
+Total number of records downloaded: 974 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 974
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 1
+	Date: 2015-03-13 ; Times: 1
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-19 ; Times: 3
+	Date: 2015-03-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "serpentes mappable:1" ; Times: 1
+	Query: "Phocidae" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "country:"Madagascar" order:Primates" ; Times: 1
+	Query: "Otariidae" ; Times: 1
+	Query: "Python molurus type:specimen" ; Times: 1
+	Query: "type:specimen genus:canis (skull OR mandible) AND (NOT latrans NOT lupus)" ; Times: 1
+	Query: "Cetacea" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Scalopus aquaticus stateprovince:"Florida"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 80
+Total number of records retrieved from searches: 851
+Number of download events that retrieved data from the resource: 63
+Total number of records downloaded: 7922
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 140
+Total number of records retrieved from searches: 1503
+Number of download events that retrieved data from the resource: 78
+Total number of records downloaded: 42526
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
