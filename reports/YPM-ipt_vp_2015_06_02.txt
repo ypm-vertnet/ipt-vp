@@ -1,0 +1,158 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 776
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 6
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Germany ; Times: 2
+	Country: India ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 52
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 7
+	Date: 2015-05-15 ; Times: 6
+	Date: 2015-05-17 ; Times: 1
+	Date: 2015-05-18 ; Times: 3
+	Date: 2015-05-20 ; Times: 10
+	Date: 2015-05-21 ; Times: 4
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-26 ; Times: 14
+	Date: 2015-05-27 ; Times: 5
+	Date: 2015-05-28 ; Times: 3
+	Date: 2015-05-29 ; Times: 8
+	Date: 2015-05-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis sirtalis dakota" ; Times: 1
+	Query: "Giant Panda" ; Times: 1
+	Query: "genus:Machairodus" ; Times: 1
+	Query: "Reptil" ; Times: 1
+	Query: "genus:Smilodon (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "stateprovince:"Norte de Santander" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "Andrewsarchus" ; Times: 2
+	Query: "Megaladapis" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "python molurus" ; Times: 1
+	Query: "stateprovince:"Santander" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "genus:megantereon (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "axis" ; Times: 3
+	Query: "(caudal)" ; Times: 1
+	Query: "palaeolama" ; Times: 2
+	Query: "Pachycephalosaurus" ; Times: 1
+	Query: "glyptodont fossil:1" ; Times: 1
+	Query: "didelphis fossil:1" ; Times: 3
+	Query: "browni arizona" ; Times: 1
+	Query: "Enhydrocyon" ; Times: 3
+	Query: "Crenidens" ; Times: 1
+	Query: "afarensis" ; Times: 1
+	Query: "meiolania" ; Times: 1
+	Query: "glyptodont" ; Times: 1
+	Query: "Palaeolama axis fossil:1" ; Times: 2
+	Query: "Mesonyx" ; Times: 1
+	Query: "stateprovince:"New York" fossil:1" ; Times: 1
+	Query: "Palaeolama fossil:1" ; Times: 7
+	Query: "crocuta" ; Times: 1
+	Query: "genus:smilodon (juvenile OR cub OR subadult OR sub-adult OR neonate)" ; Times: 1
+	Query: "orycteropus" ; Times: 2
+	Query: "genus:Dinictis (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "tuberculata institutioncode:YPM" ; Times: 1
+	Query: "coluber constrictor arizona" ; Times: 2
+	Query: "genus:Dinictis (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "tecta institutioncode:YPM" ; Times: 1
+	Query: "tuberculatus institutioncode:YPM" ; Times: 1
+	Query: "Entelodontidae" ; Times: 1
+	Query: "genus:hyaena (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "discoglossus france" ; Times: 1
+	Query: "genus:Hoplophoneus (cub OR neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "type:specimen country:"India" AND (Not Mammalia) fossil:1" ; Times: 1
+	Query: "type:specimen country:"India" fossil:1" ; Times: 5
+	Query: "class:Mammalia year >= 1850 year <= 1900 distance(location,geopoint(43.58039085560786,-101.337890625))<100000" ; Times: 1
+	Query: "genus:hoplophoneus (neonate OR juvenile OR subadult OR sub-adult)" ; Times: 1
+	Query: "Dracorex" ; Times: 2
+	Query: "Caudiverbera caudiverbera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 976 download events in this period)
+Total number of records downloaded: 875 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 830
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Panama ; Times: 2
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-09 ; Times: 5
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-21 ; Times: 5
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Octodontidae" ; Times: 1
+	Query: "Capromyidae" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "discoglossus" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "elapidae" ; Times: 3
+	Query: "agamidae" ; Times: 2
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"New Mexico" class:mammalia" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Canis latrans" ; Times: 2
+	Query: "Ochotona" ; Times: 1
+	Query: "arizona elegans" ; Times: 1
+	Query: "peromyscus polionotus" ; Times: 1
+	Query: "Echimyidae" ; Times: 1
+	Query: "genus:crotalus class:reptilia" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "Canis lupus lupus" ; Times: 1
+	Query: "Chinchillidae" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "(alytes OR discoglossus)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 156
+Total number of records retrieved from searches: 1627
+Number of download events that retrieved data from the resource: 90
+Total number of records downloaded: 8797
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 216
+Total number of records retrieved from searches: 2279
+Number of download events that retrieved data from the resource: 105
+Total number of records downloaded: 43401
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
