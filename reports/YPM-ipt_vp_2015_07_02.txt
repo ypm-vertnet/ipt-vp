@@ -1,0 +1,204 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 247
+Number of records retrieved in searches: 11896
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: France ; Times: 2
+	Country: Italy ; Times: 177
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 58
+	Country: Unknown ; Times: 3
+	Country: Vietnam ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-02 ; Times: 2
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-07 ; Times: 2
+	Date: 2015-06-08 ; Times: 12
+	Date: 2015-06-09 ; Times: 1
+	Date: 2015-06-11 ; Times: 2
+	Date: 2015-06-12 ; Times: 3
+	Date: 2015-06-13 ; Times: 1
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 8
+	Date: 2015-06-16 ; Times: 3
+	Date: 2015-06-17 ; Times: 3
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-23 ; Times: 48
+	Date: 2015-06-24 ; Times: 108
+	Date: 2015-06-25 ; Times: 15
+	Date: 2015-06-26 ; Times: 28
+	Date: 2015-06-29 ; Times: 2
+	Date: 2015-06-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "entelodontidae media:1 fossil:1" ; Times: 1
+	Query: "Mylodontidae media:1 fossil:1" ; Times: 2
+	Query: "macaque" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 2
+	Query: "rhineuridae class: reptilia (skull)" ; Times: 1
+	Query: "pristis pristis" ; Times: 4
+	Query: "entelodontidae" ; Times: 1
+	Query: "Elasmobranchii media:1 fossil:1" ; Times: 2
+	Query: "sicily" ; Times: 2
+	Query: "borophaginae media:1 fossil:1" ; Times: 1
+	Query: "podocnemis" ; Times: 1
+	Query: "Reptilia Converse Wyoming" ; Times: 1
+	Query: "Phenacodontidae media:1 fossil:1" ; Times: 1
+	Query: "triisodontidae media:1 fossil:1" ; Times: 2
+	Query: "Elasmobranchii year <= 2015 media:1 fossil:1" ; Times: 1
+	Query: "Elasmobranchii media:1" ; Times: 5
+	Query: "creodonta media:1 fossil:1" ; Times: 1
+	Query: "pachyrukhos" ; Times: 1
+	Query: "gymnophiona class:amphibia (skull )" ; Times: 1
+	Query: "mesonychidae media:1 fossil:1" ; Times: 1
+	Query: "Hyracodon" ; Times: 5
+	Query: "kinosternon nebraska" ; Times: 1
+	Query: "notoungulata media:1 fossil:1" ; Times: 1
+	Query: "Toxodontidae media:1 fossil:1" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 4
+	Query: "Rhinoptera" ; Times: 1
+	Query: "Helohyidae media:1 fossil:1" ; Times: 1
+	Query: "reptilia ouray" ; Times: 1
+	Query: "canis dirus" ; Times: 3
+	Query: "gymnophiona class:amphibia (skull)" ; Times: 1
+	Query: "adapidae" ; Times: 2
+	Query: "rhamphorhynchus" ; Times: 1
+	Query: "gymnophiona (skull)" ; Times: 18
+	Query: "Hyrachyus" ; Times: 19
+	Query: "Equus" ; Times: 1
+	Query: "Oreodontidae" ; Times: 73
+	Query: "county:"Perry" stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "creodonta" ; Times: 15
+	Query: "MIacidae media:1 fossil:1" ; Times: 3
+	Query: "miacidae" ; Times: 2
+	Query: "oreodontinae media:1 fossil:1" ; Times: 1
+	Query: "Epitriplopus" ; Times: 1
+	Query: "Aphelops" ; Times: 4
+	Query: "Embrithopoda media:1 fossil:1" ; Times: 1
+	Query: "genus:Bison class:Mammalia mappable:1" ; Times: 1
+	Query: "Chondrichthyes media:1 fossil:1" ; Times: 1
+	Query: "Croc" ; Times: 1
+	Query: "Equus fossil:1" ; Times: 1
+	Query: "Hyracodontidae media:1 fossil:1" ; Times: 2
+	Query: "Dilophodon" ; Times: 1
+	Query: "Astrapotheria media:1 fossil:1" ; Times: 1
+	Query: "Tetrameryx" ; Times: 1
+	Query: "Meridiungulata media:1 fossil:1" ; Times: 1
+	Query: "anatotitan" ; Times: 1
+	Query: "Capromeryx" ; Times: 1
+	Query: "rhineura (skull)" ; Times: 3
+	Query: "Chondrichthyes year <= 2015 media:1 fossil:1" ; Times: 1
+	Query: "hesperocyoninae media:1 fossil:1" ; Times: 1
+	Query: "Anthracotheriidae" ; Times: 1
+	Query: "giraffidae media:1 fossil:1" ; Times: 1
+	Query: "blackfeet" ; Times: 1
+	Query: "Typotheria media:1 fossil:1" ; Times: 1
+	Query: "Aceratherium" ; Times: 3
+	Query: "amphisbaenia (skull)" ; Times: 2
+	Query: "Deinonychus" ; Times: 1
+	Query: "miacidae media:1 fossil:1" ; Times: 1
+	Query: "mollusks" ; Times: 1
+	Query: "Chilotherium" ; Times: 2
+	Query: "merycoidodontinae" ; Times: 2
+	Query: "Condylarthra media:1 fossil:1" ; Times: 1
+	Query: "Carcharodon" ; Times: 1
+	Query: "laura russell" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "litopterna media:1 fossil:1" ; Times: 1
+	Query: "mesonyx" ; Times: 2
+	Query: "Thylacosmilus" ; Times: 1
+	Query: "type:specimen genus:Sciurus media:1" ; Times: 1
+	Query: "type:specimen (cetacea) fossil:1" ; Times: 1
+	Query: "Equus fossil" ; Times: 4
+	Query: "Hayoceros" ; Times: 1
+	Query: "Tylopoda media:1 fossil:1" ; Times: 1
+	Query: "cingulata media:1 fossil:1" ; Times: 2
+	Query: "Brontotheriinae media:1 fossil:1" ; Times: 1
+	Query: "milk snake" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1524 download events in this period)
+Total number of records downloaded: 3601 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2700
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 19
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 1
+	Date: 2015-06-11 ; Times: 3
+	Date: 2015-06-16 ; Times: 5
+	Date: 2015-06-17 ; Times: 3
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-22 ; Times: 2
+	Date: 2015-06-24 ; Times: 14
+	Date: 2015-06-25 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Syria" ; Times: 1
+	Query: "Elasmobranchii media:1 fossil:1" ; Times: 1
+	Query: "sicily" ; Times: 1
+	Query: "lebanon" ; Times: 1
+	Query: "MIacidae media:1 fossil:1" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Phenacodontidae media:1 fossil:1" ; Times: 1
+	Query: "triisodontidae media:1 fossil:1" ; Times: 1
+	Query: "Elasmobranchii year <= 2015 media:1 fossil:1" ; Times: 1
+	Query: "Elasmobranchii media:1" ; Times: 2
+	Query: "oreodontinae media:1 fossil:1" ; Times: 1
+	Query: "type:specimen (holocene)" ; Times: 1
+	Query: "turkey" ; Times: 1
+	Query: "notoungulata media:1 fossil:1" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Hyracodontidae media:1 fossil:1" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "miacidae media:1 fossil:1" ; Times: 1
+	Query: "iran" ; Times: 1
+	Query: "specificepithet:pinetis genus:geomys" ; Times: 1
+	Query: "Chondrichthyes media:1 fossil:1" ; Times: 1
+	Query: "israel" ; Times: 1
+	Query: "Saudi Arabia" ; Times: 1
+	Query: "specificepithet:debilis" ; Times: 1
+	Query: "proboscidea media:1 fossil:1" ; Times: 1
+	Query: "creodonta media:1 fossil:1" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "mesonychidae media:1 fossil:1" ; Times: 1
+	Query: "borophaginae media:1 fossil:1" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "hesperocyoninae media:1 fossil:1" ; Times: 1
+	Query: "United Arab Emirates" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Condylarthra media:1 fossil:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 403
+Total number of records retrieved from searches: 13523
+Number of download events that retrieved data from the resource: 125
+Total number of records downloaded: 12398
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 463
+Total number of records retrieved from searches: 14175
+Number of download events that retrieved data from the resource: 140
+Total number of records downloaded: 47002
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
