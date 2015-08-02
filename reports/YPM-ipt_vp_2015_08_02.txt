@@ -1,0 +1,187 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 804
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Dominican Republic ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Italy ; Times: 10
+	Country: Jamaica ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 44
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 1
+	Date: 2015-07-04 ; Times: 4
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-07 ; Times: 3
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-14 ; Times: 7
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 4
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 4
+	Date: 2015-07-23 ; Times: 17
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-26 ; Times: 3
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "entelodontidae media:1 fossil:1" ; Times: 1
+	Query: "Gopherus institutioncode:YPM" ; Times: 2
+	Query: "Fort Pierre stateprovince:"South Dakota" class:Reptilia" ; Times: 1
+	Query: "catalognumber:022215" ; Times: 1
+	Query: "nesophontes" ; Times: 1
+	Query: "Kinosternon institutioncode:YPM" ; Times: 1
+	Query: "entelodontidae" ; Times: 1
+	Query: "triceratops" ; Times: 1
+	Query: "genus:orycteropus" ; Times: 1
+	Query: "Reptilia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 2
+	Query: "Pangshura institutioncode:YPM" ; Times: 1
+	Query: "Dinornithiformes" ; Times: 2
+	Query: ""south dakota" (reptilia OR amphibia) AND (NOT fossil NOT paleontology)" ; Times: 1
+	Query: "Graptemys institutioncode:YPM" ; Times: 1
+	Query: "ypm 15699" ; Times: 1
+	Query: "county:"Potter" stateprovince:"South Dakota"" ; Times: 1
+	Query: "Trachemys institutioncode:YPM" ; Times: 1
+	Query: "epipubic" ; Times: 1
+	Query: "Podocnemis institutioncode:YPM" ; Times: 1
+	Query: "camelidae media:1 fossil:1" ; Times: 3
+	Query: "camelidae" ; Times: 1
+	Query: "perissodactyla (mass) OR (weight)" ; Times: 1
+	Query: "Trionyx ferox" ; Times: 1
+	Query: "Reptilia South Dakota year >= 2000 year <= 2015" ; Times: 1
+	Query: "skeleton "Equus scotti" fossil:1" ; Times: 1
+	Query: "Litopterna" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "trichechus" ; Times: 1
+	Query: "rhinocerotidae" ; Times: 1
+	Query: "Chelonia institutioncode:YPM" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "Turtles" ; Times: 1
+	Query: "Brazil Parana Reptilia" ; Times: 3
+	Query: "county:"Dewey" stateprovince:"South Dakota" class:Reptilia" ; Times: 1
+	Query: "Kachuga institutioncode:YPM" ; Times: 1
+	Query: "Natator institutioncode:YPM" ; Times: 1
+	Query: "Testudo institutioncode:YPM" ; Times: 2
+	Query: "Elephant african" ; Times: 1
+	Query: "Meridiungulata" ; Times: 1
+	Query: "rhinocerotidae (mass) OR (weight)" ; Times: 1
+	Query: "Wood turtles" ; Times: 1
+	Query: "Acipenseridae" ; Times: 2
+	Query: "mammoth genus:Mammuthus" ; Times: 1
+	Query: "mastodon" ; Times: 1
+	Query: "Rhinocerotidae year >= 1975 year <= 2015" ; Times: 1
+	Query: "Meridiungulata media:1 fossil:1" ; Times: 2
+	Query: "eryops" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "primates type:specimen (Alberta)" ; Times: 1
+	Query: "PEABODY BIRDS" ; Times: 1
+	Query: "Geochelone institutioncode:YPM" ; Times: 1
+	Query: "multituberculate" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1084 download events in this period)
+Total number of records downloaded: 6720 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6078
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 1
+	Date: 2015-07-06 ; Times: 2
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 3
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-13 ; Times: 1
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 7
+	Date: 2015-07-17 ; Times: 1
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 2
+	Date: 2015-07-22 ; Times: 6
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-26 ; Times: 2
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "entelodontidae media:1 fossil:1" ; Times: 1
+	Query: "triceratops" ; Times: 1
+	Query: "Reptilia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: "county:"Grand" stateprovince:"Utah"" ; Times: 1
+	Query: "county:"Emery" stateprovince:"Utah"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "county:"Carbon" stateprovince:"Utah"" ; Times: 1
+	Query: "camelidae media:1 fossil:1" ; Times: 3
+	Query: "Xenosauridae" ; Times: 1
+	Query: "Trionyx ferox" ; Times: 1
+	Query: "mammalia mexico" ; Times: 1
+	Query: "Xantusiidae" ; Times: 2
+	Query: "country:"Mexico" class:Mammalia" ; Times: 1
+	Query: "aepyornis" ; Times: 2
+	Query: "county:"Uintah" stateprovince:"Utah"" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Amphibia "South Dakota" AND (NOT paleontology NOT fossil)" ; Times: 1
+	Query: "Reptilia Brazil Parana" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "Meridiungulata media:1 fossil:1" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "country:"Bolivia" class:reptilia" ; Times: 1
+	Query: "(suwanniensis OR apalachicolae OR teminckii OR Macroclemys OR Macrochelys)" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 466
+Total number of records retrieved from searches: 14327
+Number of download events that retrieved data from the resource: 165
+Total number of records downloaded: 19118
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 526
+Total number of records retrieved from searches: 14979
+Number of download events that retrieved data from the resource: 180
+Total number of records downloaded: 53722
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
