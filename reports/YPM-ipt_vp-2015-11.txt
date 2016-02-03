@@ -1,0 +1,136 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 462
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 32
+	Country: Germany ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-12 ; Times: 2
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-09 ; Times: 4
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-18 ; Times: 5
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-05 ; Times: 2
+	Date: 2015-11-10 ; Times: 3
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-03 ; Times: 2
+	Date: 2015-11-27 ; Times: 1
+	Date: 2015-11-06 ; Times: 7
+	Date: 2015-11-04 ; Times: 5
+	Date: 2015-11-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cantius" ; Times: 1
+	Query: "family:Rhinocerotidae" ; Times: 1
+	Query: "Urmiatherium" ; Times: 1
+	Query: "ichthyosaur" ; Times: 1
+	Query: "marsh arizona" ; Times: 3
+	Query: "&#34;JI Bloch&#34;" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "order:squamata continent:North america fossil:1" ; Times: 1
+	Query: "Canis dirus type:specimen" ; Times: 1
+	Query: "trichechus" ; Times: 1
+	Query: "PROBOSCIDEA" ; Times: 1
+	Query: "mammuthus" ; Times: 1
+	Query: "PHOLIDOTA" ; Times: 1
+	Query: "Canis dirus" ; Times: 2
+	Query: "Protostega" ; Times: 1
+	Query: "fish 1890" ; Times: 1
+	Query: "Capromeryx" ; Times: 1
+	Query: "Meridiungulata media:1 fossil:1" ; Times: 1
+	Query: "skeleton caudata institutioncode:YPM" ; Times: 1
+	Query: "Sivatherium" ; Times: 1
+	Query: "class:Mammalia county:&#34;San Diego County&#34; fossil:1" ; Times: 1
+	Query: "snake order:squamata continent:North america fossil:1" ; Times: 1
+	Query: "genus:Branta fossil:1" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "family:rhinocerotidae" ; Times: 1
+	Query: "falciformis" ; Times: 1
+	Query: "skeleton andrias" ; Times: 1
+	Query: "Ailuropoda" ; Times: 4
+	Query: "Elephantidae" ; Times: 3
+	Query: "Archelon" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 1
+	Query: "genus:teilhardina" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 751 download events in this period)
+Total number of records downloaded: 6900
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 57
+	Country: Belgium ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-03 ; Times: 14
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-13 ; Times: 2
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-06 ; Times: 5
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-08 ; Times: 2
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-25 ; Times: 2
+	Date: 2015-11-01 ; Times: 4
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-07 ; Times: 4
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-23 ; Times: 2
+	Date: 2015-11-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia stateprovince:California" ; Times: 37
+	Query: "Alces year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "andrias skeleton" ; Times: 1
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "puffinus" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "class:Mammalia Cervus canadensis" ; Times: 2
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 2
+	Query: "procyon lotor" ; Times: 2
+	Query: "Testudines" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Myocastor" ; Times: 1
+	Query: "mammuthus columbi" ; Times: 1
+	Query: "class:aves mappable:1 year&gt;=1976 year&lt;=1986" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
