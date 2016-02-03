@@ -1,0 +1,203 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 253
+Number of records retrieved in searches: 8383
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 198
+	Country: Italy ; Times: 12
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 9
+	Country: Russia ; Times: 16
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 2
+	Date: 2015-09-10 ; Times: 40
+	Date: 2015-09-11 ; Times: 7
+	Date: 2015-09-12 ; Times: 3
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 3
+	Date: 2015-09-16 ; Times: 5
+	Date: 2015-09-17 ; Times: 2
+	Date: 2015-09-18 ; Times: 12
+	Date: 2015-09-29 ; Times: 22
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-07 ; Times: 25
+	Date: 2015-09-06 ; Times: 5
+	Date: 2015-09-05 ; Times: 18
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-03 ; Times: 10
+	Date: 2015-09-02 ; Times: 6
+	Date: 2015-09-01 ; Times: 8
+	Date: 2015-09-25 ; Times: 13
+	Date: 2015-09-24 ; Times: 4
+	Date: 2015-09-27 ; Times: 4
+	Date: 2015-09-22 ; Times: 1
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 23
+	Date: 2015-09-08 ; Times: 32
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:dirus genus:Canis" ; Times: 2
+	Query: "allodesmus" ; Times: 1
+	Query: "country:&#34;Kenya&#34; institutioncode:YPM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Rawlins&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Trego&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 4
+	Query: "type:specimen stateprovince:&#34;Virginia&#34; fossil:1" ; Times: 1
+	Query: "parasaurolophus" ; Times: 1
+	Query: "therapsida" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "allosaurus" ; Times: 1
+	Query: "Mammuthus primigenius mappable:1" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "human evolution" ; Times: 3
+	Query: "adapidae media:1 fossil:1" ; Times: 2
+	Query: "dermoptera" ; Times: 15
+	Query: "&#34;FossilSpecimen&#34; specificepithet:rex" ; Times: 9
+	Query: "cantius media:1 fossil:1" ; Times: 1
+	Query: "YPM 3445" ; Times: 3
+	Query: "genus:Ochotona fossil:1" ; Times: 3
+	Query: "hadrosauridae" ; Times: 4
+	Query: "reptilia stateprovince:&#34;texas&#34; (palo duro)" ; Times: 1
+	Query: "class:Mammalia county:&#34;Fairbanks NOrth Star Borough&#34;" ; Times: 1
+	Query: "hadrosaurus" ; Times: 1
+	Query: "Microchoerus media:1 fossil:1" ; Times: 1
+	Query: "hadrosaurus foulkii" ; Times: 3
+	Query: "Pangshura" ; Times: 1
+	Query: "pelycodus media:1 fossil:1" ; Times: 5
+	Query: "african elephant" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "homo sapiens" ; Times: 2
+	Query: "Simoedosaurus" ; Times: 1
+	Query: "tyrannosaurus rex" ; Times: 1
+	Query: "dermoptera]" ; Times: 1
+	Query: "kachuga" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 21
+	Query: "crocuta" ; Times: 3
+	Query: "Meniscoessus" ; Times: 1
+	Query: "Absarokius media:1 fossil:1" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 2
+	Query: "institutioncode:YPM fossil:1" ; Times: 2
+	Query: "redpath" ; Times: 1
+	Query: "country:&#34;Kenya&#34; institutioncode:YPM year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 77
+	Query: "Dermoptera" ; Times: 21
+	Query: "Ekgmowechashala media:1 fossil:1" ; Times: 1
+	Query: "webster nebraska" ; Times: 1
+	Query: "class:Reptilia county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "class:Reptilia county:&#34;Gove&#34; stateprovince:&#34;Kansas&#34;" ; Times: 3
+	Query: "turtles" ; Times: 3
+	Query: "class:Reptilia county:&#34;Graham&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "class:amphibia fossil:1" ; Times: 2
+	Query: "gigantea" ; Times: 1
+	Query: "elephantidae" ; Times: 1
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "monster" ; Times: 18
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "genus:felis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Kachuga" ; Times: 1
+	Query: "genus:Pterosphenus" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "PATAGONICA type:specimen institutioncode:YPM" ; Times: 1
+	Query: "lauderdale" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 103 (out of 1045 download events in this period)
+Total number of records downloaded: 4533
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 3
+	Country: United States ; Times: 84
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 23
+	Date: 2015-09-12 ; Times: 1
+	Date: 2015-09-15 ; Times: 4
+	Date: 2015-09-16 ; Times: 7
+	Date: 2015-09-17 ; Times: 3
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-03 ; Times: 2
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-07 ; Times: 12
+	Date: 2015-09-06 ; Times: 2
+	Date: 2015-09-05 ; Times: 5
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-01 ; Times: 5
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-08 ; Times: 10
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-09 ; Times: 12
+	Date: 2015-09-22 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "dermoptera cynocephalus" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "python molurus" ; Times: 1
+	Query: "adapidae media:1 fossil:1" ; Times: 1
+	Query: "Siren lacertina" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Trachemys" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 2
+	Query: "peru" ; Times: 1
+	Query: "genus:ochotona" ; Times: 5
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 2
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "order:Chiroptera continent:North America" ; Times: 2
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 22
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "palos verdes" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 27
+	Query: "Dermoptera" ; Times: 2
+	Query: "Gavia" ; Times: 1
+	Query: "stahl" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+	Query: "caiman" ; Times: 2
+	Query: "dermoptera" ; Times: 2
+	Query: "Castor canadensis" ; Times: 1
+	Query: "year:1859" ; Times: 1
+
+
+End of report.
