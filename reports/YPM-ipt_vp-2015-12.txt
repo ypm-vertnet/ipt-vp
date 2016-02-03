@@ -1,0 +1,105 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 568
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Australia ; Times: 7
+	Country: Germany ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-07 ; Times: 2
+	Date: 2015-12-06 ; Times: 2
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-21 ; Times: 2
+	Date: 2015-12-16 ; Times: 5
+	Date: 2015-12-25 ; Times: 5
+	Date: 2015-12-11 ; Times: 5
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "homo sapiens" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;pennsylvania&#34; hastypestatus:1" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;pennsylvania&#34; media:1" ; Times: 1
+	Query: "tapir" ; Times: 2
+	Query: "mayulestes" ; Times: 3
+	Query: "type:specimen genus:Bison family:Bovidae fossil:1" ; Times: 1
+	Query: "crocodylus type:specimen media:1" ; Times: 1
+	Query: "type:specimen genus:Bison family:Bovidae" ; Times: 1
+	Query: "Gazella gazella iran" ; Times: 1
+	Query: "genus:Trichechus" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 3
+	Query: "smilodon" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 5
+	Query: "dinornithidae" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;pennsylvania&#34; hastypestatus:1" ; Times: 1
+	Query: "Mammut borsoni" ; Times: 1
+	Query: "mayulestes ferox" ; Times: 2
+	Query: "Myotragus" ; Times: 2
+	Query: "mammut" ; Times: 1
+	Query: "YPM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 889 download events in this period)
+Total number of records downloaded: 195
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-25 ; Times: 3
+	Date: 2015-12-24 ; Times: 4
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-19 ; Times: 1
+	Date: 2015-12-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "iran mammals" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "rio grande do sul" ; Times: 1
+	Query: "common raccoon" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis" ; Times: 2
+
+
+End of report.
