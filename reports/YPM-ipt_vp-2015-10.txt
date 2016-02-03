@@ -1,0 +1,176 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 108
+Number of records retrieved in searches: 1582
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 55
+	Country: Italy ; Times: 12
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 20
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-17 ; Times: 1
+	Date: 2015-10-14 ; Times: 21
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 8
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 13
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-26 ; Times: 4
+	Date: 2015-10-24 ; Times: 1
+	Date: 2015-10-22 ; Times: 6
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 5
+	Date: 2015-10-06 ; Times: 7
+	Date: 2015-10-01 ; Times: 7
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-09 ; Times: 6
+	Date: 2015-10-30 ; Times: 7
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mass mammalia" ; Times: 2
+	Query: "sloth" ; Times: 1
+	Query: "Temnospondyli" ; Times: 1
+	Query: "Temnospondyli (vertebrae)" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Apatosaurus louisae" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; fossil:1" ; Times: 1
+	Query: "type:specimen institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:dirus genus:Canis" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "Hemiacodon media:1 fossil:1" ; Times: 1
+	Query: "Mammuthus columbi country:&#34;Mexico&#34; fossil:1" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 3
+	Query: "heptranchias" ; Times: 1
+	Query: "(amphibia) AND (&#34;sp.&#34;) fossil:1" ; Times: 1
+	Query: "thylacosmilus lentis" ; Times: 3
+	Query: "Bramatherium" ; Times: 1
+	Query: "Leptoceratops" ; Times: 2
+	Query: "monster" ; Times: 4
+	Query: "stateprovince:&#34;Utah&#34; recordedby:Hall" ; Times: 1
+	Query: "temnospondyli" ; Times: 1
+	Query: "smilodon populator" ; Times: 1
+	Query: "type:specimen catalognumber:029329" ; Times: 2
+	Query: "MBR 8564" ; Times: 1
+	Query: "Omomys media:1 fossil:1" ; Times: 1
+	Query: "diplodocus" ; Times: 7
+	Query: "Crenidens" ; Times: 1
+	Query: "(amphibia) fossil:1" ; Times: 9
+	Query: "crenidens crenidens" ; Times: 2
+	Query: "dogs" ; Times: 1
+	Query: "gerrhonotus institutioncode:YPM" ; Times: 1
+	Query: "brachychampsa" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "elephas" ; Times: 2
+	Query: "Tragulidae institutioncode:YPM" ; Times: 1
+	Query: "type:specimen country:&#34;Canada&#34; fossil:1" ; Times: 1
+	Query: "(amphibia) AND (sp.) fossil:1" ; Times: 2
+	Query: "Macrotarsius media:1 fossil:1" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "dyrosaurus" ; Times: 1
+	Query: "Tyrannosaurus" ; Times: 1
+	Query: "giraffidae media:1" ; Times: 4
+	Query: "MBR 8519" ; Times: 1
+	Query: "class:Mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "Platybelodon" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "giraffidae media:1 fossil:1" ; Times: 1
+	Query: "Oreopithecus media:1 fossil:1" ; Times: 1
+	Query: "trachytherus" ; Times: 1
+	Query: "deer antler" ; Times: 5
+	Query: "homo sapiens" ; Times: 1
+	Query: "ammoperdix" ; Times: 1
+	Query: "boidae media:1" ; Times: 3
+	Query: "class:amphibia fossil:1" ; Times: 1
+	Query: "mammuthus columbi fossil:1" ; Times: 1
+	Query: "Shoshonius media:1 fossil:1" ; Times: 1
+	Query: "catalognumber:013622 institutioncode:YPM" ; Times: 1
+	Query: "gastrolith" ; Times: 2
+	Query: "type:specimen catalognumber:001726" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "amphibia fossil" ; Times: 1
+	Query: "catalognumber:031622 institutioncode:YPM" ; Times: 1
+	Query: "Odocoileus virginianus and new jersey" ; Times: 1
+	Query: "Milwaukee" ; Times: 1
+	Query: "Lagomorphs" ; Times: 4
+	Query: "heterodon marion" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 823 download events in this period)
+Total number of records downloaded: 7930
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Canada ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 4
+	Date: 2015-10-05 ; Times: 2
+	Date: 2015-10-14 ; Times: 3
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-31 ; Times: 3
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Adinotherium" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; fossil:1" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "genus:Rhineura" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "(amphibia) fossil:1" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "spheniscidae type:specimen class:aves" ; Times: 1
+	Query: "deer antler" ; Times: 2
+	Query: "Ailuropoda" ; Times: 1
+	Query: "north american porcupine" ; Times: 2
+
+
+End of report.
