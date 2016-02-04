@@ -1,0 +1,125 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 1180
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Australia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 5
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-20 ; Times: 4
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-05 ; Times: 5
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-23 ; Times: 4
+	Date: 2016-01-29 ; Times: 4
+	Date: 2016-01-08 ; Times: 4
+	Date: 2016-01-03 ; Times: 1
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-07 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Plesiogulo" ; Times: 1
+	Query: "Barosaurus" ; Times: 1
+	Query: "Anchisaurus" ; Times: 1
+	Query: "smilodon" ; Times: 1
+	Query: "Diplodocus" ; Times: 1
+	Query: "Muridae type:specimen country:&#34;USA&#34; (limb)" ; Times: 1
+	Query: "Smilodon populator" ; Times: 1
+	Query: "mesonychidae" ; Times: 2
+	Query: "tyrannosaurus" ; Times: 1
+	Query: "Camarasaurus" ; Times: 1
+	Query: "unionidae" ; Times: 1
+	Query: "Bramatherium" ; Times: 1
+	Query: "Homoeosaurus" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "unsm" ; Times: 1
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "Equus" ; Times: 2
+	Query: "Chisternon" ; Times: 2
+	Query: "Moropus" ; Times: 1
+	Query: "Muridae type:specimen country:&#34;USA&#34;" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 4
+	Query: "Capromeryx" ; Times: 1
+	Query: "Giraffokeryx" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;USA&#34;" ; Times: 2
+	Query: "dermoptera mappable:1" ; Times: 6
+	Query: "Dermatemys mawii" ; Times: 3
+	Query: "Myotragus" ; Times: 2
+	Query: "Helladotherium" ; Times: 1
+	Query: "squirrels" ; Times: 1
+	Query: "turtles" ; Times: 1
+	Query: "chisternon uinta" ; Times: 1
+	Query: "Astrodon" ; Times: 1
+	Query: "genus:Equus" ; Times: 2
+	Query: "lizards" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "Macrauchenia" ; Times: 1
+	Query: "Odocoileus virginianus media:1" ; Times: 1
+	Query: "mayulestes ferox" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 507 download events in this period)
+Total number of records downloaded: 922
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-31 ; Times: 2
+	Date: 2016-01-30 ; Times: 4
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-28 ; Times: 1
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-08 ; Times: 1
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-03 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Muridae type:specimen country:&#34;USA&#34;" ; Times: 1
+	Query: "order:Caudata country:&#34;USA&#34;" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "Felis tigris" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "amphiuma means media:1" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+
+
+End of report.
