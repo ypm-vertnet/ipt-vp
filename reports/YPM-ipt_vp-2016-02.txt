@@ -1,0 +1,121 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 1505
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Italy ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-13 ; Times: 2
+	Date: 2016-02-03 ; Times: 12
+	Date: 2016-02-28 ; Times: 3
+	Date: 2016-02-05 ; Times: 6
+	Date: 2016-02-04 ; Times: 13
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia county:&#34;san juan&#34; stateprovince:&#34;utah&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT gambelia NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus) month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "Elephantidae mappable:1" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "family:Felidae media:1" ; Times: 3
+	Query: "gazella iran" ; Times: 1
+	Query: "Tenontosaurus" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "&#34;Emydoidea&#34; and &#34;Nebraska&#34;" ; Times: 1
+	Query: "Lambeosaurus" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 12
+	Query: "Kritosaurus" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 9
+	Query: "Dermoptera" ; Times: 1
+	Query: "anosteira" ; Times: 1
+	Query: "Acipenseridae" ; Times: 2
+	Query: "Mammals orders" ; Times: 1
+	Query: "class:reptilia county:&#34;grand&#34; stateprovince:&#34;utah&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus)" ; Times: 1
+	Query: "class:reptilia county:&#34;san juan&#34; stateprovince:&#34;utah&#34; AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus) month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "dermoptera order:dermoptera" ; Times: 1
+	Query: "Gazella iran" ; Times: 1
+	Query: "kinosternon type:specimen genus:kinosternon stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 512 download events in this period)
+Total number of records downloaded: 3872
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 39
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-04 ; Times: 16
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-22 ; Times: 2
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 4
+	Date: 2016-02-26 ; Times: 5
+	Date: 2016-02-25 ; Times: 3
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-05 ; Times: 2
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnophiona" ; Times: 1
+	Query: "county:&#34;Jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Wyoming" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "county:&#34;Hot Springs&#34; stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "county:&#34;Shannon&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "county:&#34;Dewey&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 4
+	Query: "class:actinopterygii mappable:1 stateprovince:Wyoming" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "county:&#34;jackson&#34; stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "Gazella iran" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
