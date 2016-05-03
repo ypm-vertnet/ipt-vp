@@ -1,0 +1,199 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 906
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 6
+	Country: Panama ; Times: 8
+	Country: France ; Times: 1
+	Country: United States ; Times: 42
+	Country: United Kingdom ; Times: 10
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-13 ; Times: 19
+	Date: 2016-04-09 ; Times: 2
+	Date: 2016-04-10 ; Times: 7
+	Date: 2016-04-14 ; Times: 8
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-27 ; Times: 3
+	Date: 2016-04-18 ; Times: 7
+	Date: 2016-04-19 ; Times: 9
+	Date: 2016-04-15 ; Times: 3
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 2
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-22 ; Times: 5
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+	Date: 2016-04-26 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "YPM 1015" ; Times: 1
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "genus:Globidens" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "crex crex" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "Sauropelta" ; Times: 2
+	Query: "Caniformia" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "family:Cupressaceae" ; Times: 1
+	Query: "1874-8-24" ; Times: 2
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "hominid" ; Times: 1
+	Query: "extinct" ; Times: 2
+	Query: "catalognumber:015679 institutioncode:YPM" ; Times: 1
+	Query: "HAPLORHINI" ; Times: 1
+	Query: "caudiverbera caudiverbera" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "CASTORIMORPHA" ; Times: 1
+	Query: "Stegosaurus" ; Times: 4
+	Query: "Perissodactyla" ; Times: 1
+	Query: "temnospondyli" ; Times: 4
+	Query: "smilodon populator" ; Times: 1
+	Query: "Bison bison Canada 1" ; Times: 1
+	Query: "1874-08-24" ; Times: 1
+	Query: "YPM Aves" ; Times: 1
+	Query: "elephants" ; Times: 1
+	Query: "year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 3
+	Query: "Dissorophus" ; Times: 1
+	Query: "mammals o f new mexico" ; Times: 1
+	Query: "phalacrocorax carbo (africa)" ; Times: 1
+	Query: "C 0119" ; Times: 1
+	Query: "Bison bison Canada" ; Times: 2
+	Query: "order:artiodactyla class:Mammalia AND (juvenile)" ; Times: 2
+	Query: "fish fossils Monterey Formation" ; Times: 1
+	Query: "type:specimen genus:Bison mappable:1" ; Times: 1
+	Query: "lepospondyli" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lancaster&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "type:specimen genus:Prionodon order:Carnivora" ; Times: 2
+	Query: "cacops" ; Times: 1
+	Query: "temnospondyl" ; Times: 2
+	Query: "dimetrodon" ; Times: 3
+	Query: "DASYATIDAE" ; Times: 2
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "Edmontonia" ; Times: 1
+	Query: "crex" ; Times: 2
+	Query: "Camelidae" ; Times: 1
+	Query: "Otters" ; Times: 1
+	Query: "Dorudon atrox" ; Times: 2
+	Query: "YPM 044569" ; Times: 1
+	Query: "class:Reptilia county:&#34;York&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "catalognumber:026972 institutioncode:YPM" ; Times: 2
+	Query: "smilodon" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Panoplosaurus" ; Times: 1
+	Query: "eryops" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "MICROCHIROPTERA" ; Times: 2
+	Query: "Nodosaurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 107 (out of 1312 download events in this period)
+Total number of records downloaded: 15471
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Mexico ; Times: 49
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 47
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-22 ; Times: 16
+	Date: 2016-04-16 ; Times: 8
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-28 ; Times: 2
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-18 ; Times: 6
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-05 ; Times: 3
+	Date: 2016-04-15 ; Times: 3
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-20 ; Times: 4
+	Date: 2016-04-23 ; Times: 13
+	Date: 2016-04-17 ; Times: 3
+	Date: 2016-04-25 ; Times: 9
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-21 ; Times: 2
+	Date: 2016-04-19 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "mammals of new mexico" ; Times: 7
+	Query: "MITSUKURINIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "genus:Spilogale" ; Times: 1
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "ODONTASPIDIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "mammals of texas" ; Times: 13
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "CENTROPOMIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "temnospondyli" ; Times: 1
+	Query: "MEGALOPIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "mammals texas" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "POLYMIXIIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "genus:dasypus class:mammalia country:&#34;USA&#34;" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "TRACHICHTHYIDAE" ; Times: 1
+	Query: "THE MAMMALS OF NEW MEXICO" ; Times: 22
+	Query: "Geomyidae" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "type:specimen genus:Sciurus stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "mammals of the new mexico" ; Times: 3
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+
+
+End of report.
