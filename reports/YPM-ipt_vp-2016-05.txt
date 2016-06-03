@@ -1,0 +1,98 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 725
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 4
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-16 ; Times: 2
+	Date: 2016-05-15 ; Times: 3
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-26 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 4
+	Date: 2016-05-30 ; Times: 3
+	Date: 2016-05-20 ; Times: 3
+	Date: 2016-05-01 ; Times: 2
+	Date: 2016-05-29 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+	Date: 2016-05-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Helladotherium" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "Mesohippus" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "Miohippus" ; Times: 2
+	Query: "extinction" ; Times: 1
+	Query: "gbifdatasetid:9643f840-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Samotherium" ; Times: 1
+	Query: "Equidae" ; Times: 1
+	Query: "Dimetrodon" ; Times: 4
+	Query: "country:&#34;italy&#34; hastypestatus:1 media:1" ; Times: 1
+	Query: "squamates" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "Dinictis" ; Times: 1
+	Query: "Giraffokeryx" ; Times: 1
+	Query: "Coluber stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "yale peabody museum" ; Times: 1
+	Query: "pyrotherium" ; Times: 2
+	Query: "primate" ; Times: 3
+	Query: "Hippopotamus pentlandi" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "class:Reptilia county:&#34;Sampson&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "raptors" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 327 download events in this period)
+Total number of records downloaded: 163
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+
+
+End of report.
