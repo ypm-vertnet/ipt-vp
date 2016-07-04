@@ -1,0 +1,207 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 169
+Number of records retrieved in searches: 1815
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 18
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 142
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-14 ; Times: 6
+	Date: 2016-06-25 ; Times: 4
+	Date: 2016-06-24 ; Times: 3
+	Date: 2016-06-23 ; Times: 17
+	Date: 2016-06-08 ; Times: 25
+	Date: 2016-06-21 ; Times: 19
+	Date: 2016-06-20 ; Times: 13
+	Date: 2016-06-05 ; Times: 9
+	Date: 2016-06-17 ; Times: 6
+	Date: 2016-06-07 ; Times: 6
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-01 ; Times: 20
+	Date: 2016-06-13 ; Times: 4
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 12
+	Date: 2016-06-16 ; Times: 8
+	Date: 2016-06-19 ; Times: 2
+	Date: 2016-06-18 ; Times: 3
+	Date: 2016-06-09 ; Times: 3
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyracotherium leporinum" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Kachuga kachuga" ; Times: 1
+	Query: "Xenartha" ; Times: 1
+	Query: "bison bison   " ; Times: 15
+	Query: "Asiocoryphodon" ; Times: 2
+	Query: "Synthetoceras" ; Times: 1
+	Query: "Cursorius" ; Times: 1
+	Query: "Thoatherium" ; Times: 1
+	Query: "Homo habilis" ; Times: 1
+	Query: "Reptilia 4058" ; Times: 2
+	Query: "catalognumber:013624 institutioncode:YPM" ; Times: 1
+	Query: "(unsm)" ; Times: 1
+	Query: "class:Chondrichthyes county:&#34;Gove&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Protoceras" ; Times: 1
+	Query: "Megatapirus" ; Times: 1
+	Query: "county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34; AND (NOT KU)" ; Times: 1
+	Query: "alces alces   " ; Times: 3
+	Query: "8442 mammalia" ; Times: 2
+	Query: "catalognumber:017934 institutioncode:YPM" ; Times: 1
+	Query: "Stegodon" ; Times: 1
+	Query: "Moeritherium" ; Times: 1
+	Query: "uintatherium" ; Times: 3
+	Query: "Colodon" ; Times: 1
+	Query: "Palaeotherium" ; Times: 2
+	Query: "YPM 1015" ; Times: 1
+	Query: "Cervalces" ; Times: 1
+	Query: "Tapirus" ; Times: 1
+	Query: "Proamphibos" ; Times: 1
+	Query: "Tyrannosaurus rex" ; Times: 1
+	Query: "Sivoreas" ; Times: 1
+	Query: "Mammalian skeleton" ; Times: 1
+	Query: "proteles" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Homo neanderthalensis" ; Times: 1
+	Query: "Miller year &gt;= 1890 year &lt;= 1905 institutioncode:YPM" ; Times: 1
+	Query: "Bathyopsis" ; Times: 1
+	Query: "Elachistoceras" ; Times: 1
+	Query: "catalognumber:013495 institutioncode:YPM" ; Times: 2
+	Query: "Titanoides" ; Times: 1
+	Query: "Myocastor coypus 1" ; Times: 2
+	Query: "plesiadapis" ; Times: 1
+	Query: "rocks and minerals" ; Times: 1
+	Query: "Diadiaphorus" ; Times: 1
+	Query: "catalognumber:013314 institutioncode:YPM" ; Times: 1
+	Query: "Estes Scincidae type:specimen" ; Times: 1
+	Query: "canid" ; Times: 1
+	Query: "YPM 009999" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "Miotragocerus" ; Times: 1
+	Query: "catalognumber:011890 institutioncode:YPM" ; Times: 2
+	Query: "Sus scrofa" ; Times: 2
+	Query: "catalognumber:013303 institutioncode:YPM" ; Times: 1
+	Query: "Elephas antiquus" ; Times: 2
+	Query: "Hypsilolambda" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Dilophodon" ; Times: 1
+	Query: "YPM 008002" ; Times: 1
+	Query: "Capra hircus" ; Times: 1
+	Query: "YPM 008000" ; Times: 2
+	Query: "Barylambda" ; Times: 1
+	Query: "catalognumber:013873 institutioncode:YPM" ; Times: 1
+	Query: "Dama dama 1" ; Times: 2
+	Query: "primate" ; Times: 1
+	Query: "catalognumber:013622 institutioncode:YPM" ; Times: 2
+	Query: "eobasileus" ; Times: 1
+	Query: "apatosaurus" ; Times: 1
+	Query: "catalognumber:019389 institutioncode:YPM" ; Times: 3
+	Query: "tetheopsis" ; Times: 1
+	Query: "Selenoportax" ; Times: 1
+	Query: "Pine Marten" ; Times: 3
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 3
+	Query: "genus:Bison" ; Times: 1
+	Query: "lepisosteidae" ; Times: 5
+	Query: "Python molurus " ; Times: 2
+	Query: "Tragoportax" ; Times: 1
+	Query: "Homo erectus" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 2
+	Query: "Mammuthus imperator" ; Times: 1
+	Query: "Reptilia 8516" ; Times: 1
+	Query: "genus:bison" ; Times: 6
+	Query: "homininae" ; Times: 1
+	Query: "class:Reptilia county:&#34;King George&#34; stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "elephas" ; Times: 1
+	Query: "Mammuthus columbi" ; Times: 2
+	Query: "genus:canis" ; Times: 3
+	Query: "catalognumber:017938 institutioncode:YPM" ; Times: 2
+	Query: "mammuthus" ; Times: 1
+	Query: "Coryphodon" ; Times: 7
+	Query: "YPM 008001" ; Times: 1
+	Query: "Phiomia" ; Times: 1
+	Query: "class:Reptilia county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "retusus mammals" ; Times: 7
+	Query: "Prodinoceras" ; Times: 1
+	Query: "homo habilis" ; Times: 6
+	Query: "Acipenser" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1052 download events in this period)
+Total number of records downloaded: 691
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: United States ; Times: 13
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 3
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-21 ; Times: 1
+	Date: 2016-06-18 ; Times: 2
+	Date: 2016-06-20 ; Times: 2
+	Date: 2016-06-17 ; Times: 3
+	Date: 2016-06-14 ; Times: 5
+	Date: 2016-06-06 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 6
+	Date: 2016-06-02 ; Times: 2
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-11 ; Times: 1
+	Date: 2016-06-07 ; Times: 1
+	Date: 2016-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "erethizon" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "iguania" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "Gopherus" ; Times: 1
+	Query: "class:Reptilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Pseudemys" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 2
+	Query: "Lepus americanus" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "Marmota monax" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "micrurus fulvius year &gt;= 1950 year &lt;= 2000" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 1
+	Query: "Chrysemys" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
