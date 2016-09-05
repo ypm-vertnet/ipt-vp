@@ -1,0 +1,126 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 1054
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 53
+	Country: Unknown ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 2
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-15 ; Times: 20
+	Date: 2016-08-16 ; Times: 1
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-24 ; Times: 10
+	Date: 2016-08-26 ; Times: 2
+	Date: 2016-08-20 ; Times: 5
+	Date: 2016-08-30 ; Times: 9
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-23 ; Times: 2
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sloth" ; Times: 1
+	Query: "Megantereon" ; Times: 1
+	Query: "Smilodon populator" ; Times: 1
+	Query: "Tarbosaurus" ; Times: 1
+	Query: "cercocebus" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 2
+	Query: "Aepyornis" ; Times: 2
+	Query: "Asiocoryphodon" ; Times: 1
+	Query: "carpolestes" ; Times: 3
+	Query: "specificepithet:cuvier genus:Galeocerdo" ; Times: 1
+	Query: "Lystrosaurus" ; Times: 1
+	Query: "M-8974" ; Times: 1
+	Query: "Deinotherium" ; Times: 2
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "lizards" ; Times: 1
+	Query: "Bemalambda" ; Times: 1
+	Query: "Crenidens" ; Times: 3
+	Query: "Dermoptera mappable:1" ; Times: 2
+	Query: "african elephant" ; Times: 1
+	Query: "Homo sapiens" ; Times: 3
+	Query: "tapirus" ; Times: 2
+	Query: "Platybelodon" ; Times: 1
+	Query: "Tarbosaurus bataar" ; Times: 1
+	Query: "Dunkleosteus" ; Times: 2
+	Query: "Armadillos" ; Times: 1
+	Query: "Elachistoceras" ; Times: 2
+	Query: "Megatapirus" ; Times: 2
+	Query: "institutioncode:ypm" ; Times: 6
+	Query: "Syndyoceras" ; Times: 1
+	Query: "Dakota 1882" ; Times: 1
+	Query: "Dicynodon" ; Times: 2
+	Query: "primate" ; Times: 1
+	Query: "specificepithet:brevirostris genus:Negaprion" ; Times: 1
+	Query: "genus:emeus" ; Times: 2
+	Query: "Moeritherium" ; Times: 1
+	Query: "Cynognathus" ; Times: 1
+	Query: "geochelone" ; Times: 1
+	Query: "reptilia san juan new mexico" ; Times: 1
+	Query: "Plateosaurus" ; Times: 1
+	Query: "Thrinaxodon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 924 download events in this period)
+Total number of records downloaded: 1856
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 10
+	Country: Austria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-24 ; Times: 3
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-09 ; Times: 2
+	Date: 2016-08-31 ; Times: 2
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-30 ; Times: 2
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudemys" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "crotalus" ; Times: 1
+	Query: "cercocebus" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Equus fossil:1" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+
+
+End of report.
