@@ -1,0 +1,119 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 217
+Number of records retrieved in searches: 8040
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 209
+	Country: United Kingdom ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-01 ; Times: 10
+	Date: 2016-09-13 ; Times: 12
+	Date: 2016-09-12 ; Times: 13
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-08 ; Times: 39
+	Date: 2016-09-09 ; Times: 2
+	Date: 2016-09-14 ; Times: 5
+	Date: 2016-09-04 ; Times: 7
+	Date: 2016-09-23 ; Times: 1
+	Date: 2016-09-05 ; Times: 18
+	Date: 2016-09-07 ; Times: 69
+	Date: 2016-09-06 ; Times: 29
+	Date: 2016-09-02 ; Times: 8
+	Date: 2016-09-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Elephas institutioncode:YPM" ; Times: 1
+	Query: "milkfish" ; Times: 1
+	Query: "hyraxes mappable:1" ; Times: 1
+	Query: "Columba livia 1" ; Times: 1
+	Query: "Dermoptera AND (USA) mappable:1" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 4
+	Query: "human" ; Times: 1
+	Query: "Procoptodon" ; Times: 3
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "Tapirus" ; Times: 1
+	Query: "Elephas" ; Times: 1
+	Query: "Papio type:specimen fossil:1" ; Times: 1
+	Query: "ELEPHANTS" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "hominoid" ; Times: 1
+	Query: "Primate type:specimen fossil:1" ; Times: 1
+	Query: "year &gt;= 1838 year &lt;= 1845" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 58
+	Query: "type:specimen catalognumber:014620 institutioncode:YPM" ; Times: 1
+	Query: "hesperornithiform" ; Times: 1
+	Query: "type:specimen specificepithet:portoricensis genus:Isolobodon institutioncode:YPM" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 2
+	Query: "Dermoptera" ; Times: 5
+	Query: "ypm" ; Times: 1
+	Query: "mosasauridae" ; Times: 1
+	Query: "genus:Oreonetes" ; Times: 1
+	Query: "scientificname:&#34;propliopithecus (sp?)&#34;" ; Times: 1
+	Query: "armadillos mappable:1" ; Times: 1
+	Query: "(Dermoptera) mappable:1" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "Cercopithecidae type:specimen fossil:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 87
+	Query: "specificepithet:africana genus:Loxodonta institutioncode:YPM" ; Times: 1
+	Query: "Oreonetes anceps" ; Times: 2
+	Query: "specificepithet:maximus genus:Elephas institutioncode:YPM" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "Dama dama 1" ; Times: 3
+	Query: "Carcharodon" ; Times: 1
+	Query: "catalognumber:003108 institutioncode:YPM" ; Times: 3
+	Query: "homo" ; Times: 1
+	Query: "Human" ; Times: 1
+	Query: "&#34;mammuthus primigenius&#34; mappable:1" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 811 download events in this period)
+Total number of records downloaded: 4596
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 84
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-01 ; Times: 1
+	Date: 2016-09-13 ; Times: 4
+	Date: 2016-09-12 ; Times: 2
+	Date: 2016-09-08 ; Times: 20
+	Date: 2016-09-14 ; Times: 1
+	Date: 2016-09-04 ; Times: 3
+	Date: 2016-09-23 ; Times: 2
+	Date: 2016-09-05 ; Times: 5
+	Date: 2016-09-07 ; Times: 21
+	Date: 2016-09-06 ; Times: 16
+	Date: 2016-09-02 ; Times: 6
+	Date: 2016-09-03 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "dermoptera" ; Times: 2
+	Query: "order:Testudines stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 23
+	Query: "order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "tadpole" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "dermoptera mappable:1" ; Times: 47
+	Query: "genus:ochotona" ; Times: 2
+	Query: "Dermoptera" ; Times: 1
+
+
+End of report.
