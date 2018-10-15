@@ -1,0 +1,61 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Canada ; Times: 2
+	Country: Singapore ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 1
+	Date: 2017-11-30 ; Times: 4
+	Date: 2017-11-28 ; Times: 6
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "47996" ; Times: 1
+	Query: "asian elephant" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "vntype:specimen family:Caenagnathidae AND (NOT cast) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "family:Aepyornithidae" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 5
+	Query: "Elephas maximus India" ; Times: 1
+	Query: "vntype:specimen family:Caenagnathidae AND (NOT cast NOT PBDB) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1101 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Costa Rica ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 2
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:indicus genus:Tapirus" ; Times: 1
+	Query: "India Amphibia" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "ziphius" ; Times: 1
+
+
+End of report.
