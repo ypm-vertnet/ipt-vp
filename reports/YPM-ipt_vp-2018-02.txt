@@ -1,0 +1,202 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 518
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 5
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 86
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 62
+	Country: Argentina ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 5
+	Date: 2018-02-08 ; Times: 7
+	Date: 2018-02-03 ; Times: 10
+	Date: 2018-02-01 ; Times: 10
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 10
+	Date: 2018-02-05 ; Times: 4
+	Date: 2018-02-04 ; Times: 52
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-23 ; Times: 5
+	Date: 2018-02-22 ; Times: 4
+	Date: 2018-02-25 ; Times: 3
+	Date: 2018-02-24 ; Times: 2
+	Date: 2018-02-27 ; Times: 34
+	Date: 2018-02-26 ; Times: 9
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-18 ; Times: 3
+	Date: 2018-02-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Bassariscus and California" ; Times: 1
+	Query: "iptrecordid:&#34;urn:uuid:742afa1b-fa4d-44b5-b672-7a68c99a5523&#34;" ; Times: 4
+	Query: "Synthetoceras" ; Times: 2
+	Query: "iptrecordid:&#34;urn:uuid:a2b96b70-93f3-4bb1-811d-32e58eec8eaa&#34;" ; Times: 4
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:uuid:e9299d99-eedf-4d46-96bb-718d99d83a2d&#34;" ; Times: 2
+	Query: "California crocodile" ; Times: 2
+	Query: "Ctenodon ctenodon" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "scientificname:&#34;reithroparamys sp.&#34;" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "scientificname:&#34;scenopagus sp.&#34;" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 3
+	Query: "scientificname:&#34;propliopithecus (sp?)&#34;" ; Times: 1
+	Query: "scientificname:&#34;grallator sp.&#34;" ; Times: 1
+	Query: "quetzalcoatlus" ; Times: 1
+	Query: "scientificname:&#34;cercocebus sp.&#34;" ; Times: 1
+	Query: "Calyptocephalella vntype:specimen" ; Times: 3
+	Query: "Pikas" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 2
+	Query: "scientificname:&#34;cf. palaeictops sp.&#34;" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Caudiverbera vntype:specimen" ; Times: 7
+	Query: "Loxodonta africana africana" ; Times: 3
+	Query: "scientificname:&#34;palaeotherium sp.&#34;" ; Times: 1
+	Query: "genus:Drymarchon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "scientificname:&#34;sivapithecus sp.&#34;" ; Times: 1
+	Query: "pocket gophers" ; Times: 1
+	Query: "scientificname:&#34;elphidotarsius cf. florencae&#34;" ; Times: 3
+	Query: "mylodon" ; Times: 1
+	Query: "genus:Palaeophis country:&#34;USA&#34;" ; Times: 3
+	Query: "scientificname:&#34;omomys sp.?&#34;" ; Times: 3
+	Query: "giant panda" ; Times: 1
+	Query: "scientificname:&#34;apidium sp.&#34;" ; Times: 1
+	Query: "genus:lupus family:Canidae" ; Times: 2
+	Query: "iptrecordid:&#34;urn:uuid:8fb81e6a-306f-408a-bccf-dbfc39f50fbb&#34;" ; Times: 4
+	Query: "genus:Palaeophis" ; Times: 5
+	Query: "liodytes alleni" ; Times: 1
+	Query: "class:reptilia county:&#34;Pittsylvania&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "Equus asinus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:uuid:5b927715-cbbc-4ef5-9430-e2288ce84b23&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;urn:uuid:ab733c4c-29e3-4f24-bb39-67385053874f&#34;" ; Times: 2
+	Query: "artiodactyl" ; Times: 2
+	Query: "stateprovince:&#34;Kansas&#34; year &gt;= 1979 year &lt;= 1987 basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "genus:Pterosphenus" ; Times: 3
+	Query: "50129" ; Times: 1
+	Query: "Elephas maximus indicus" ; Times: 2
+	Query: "iptrecordid:&#34;urn:uuid:20f2c2cc-c1e4-4c5d-9828-20e359910dd1&#34;" ; Times: 4
+	Query: "scientificname:&#34;parapithecus grangeri&#34;" ; Times: 1
+	Query: "genus:&#34;dendropithecus&#34;" ; Times: 1
+	Query: "scientificname:&#34;limnopithecus evansi&#34;" ; Times: 1
+	Query: "scientificname:&#34;hyaena sp.&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;stokes&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "scientificname:&#34;conohyus sp.&#34;" ; Times: 1
+	Query: "scientificname:&#34;propliopithecus sp.&#34;" ; Times: 1
+	Query: "river otters" ; Times: 4
+	Query: "scientificname:&#34;cf. pronothodectes&#34;" ; Times: 1
+	Query: "megalonychotherium" ; Times: 1
+	Query: "stegomastodon" ; Times: 1
+	Query: "scelidodon" ; Times: 1
+	Query: "museum abbreviations" ; Times: 1
+	Query: "scientificname:&#34;teilhardina sp.&#34;" ; Times: 1
+	Query: "Coelophysis" ; Times: 1
+	Query: "iptrecordid:&#34;urn:uuid:60a793b5-b2bb-4a8e-a124-964a8764dca6&#34;" ; Times: 6
+	Query: "genus:Pterosphenus country:&#34;Egypt&#34;" ; Times: 3
+	Query: "scientificname:&#34;phenacolemur archus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;urn:uuid:c3b82f26-ffe1-49ab-a292-df2875da89b3&#34;" ; Times: 4
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "scientificname:&#34;leptadapis leenhardti&#34;" ; Times: 1
+	Query: "leatherback turtle" ; Times: 1
+	Query: "Pangolin" ; Times: 2
+	Query: "iptrecordid:&#34;urn:uuid:f5a1c0dd-7bb6-493a-b3b6-768efd93b2fa&#34;" ; Times: 4
+	Query: "institutioncode:YPM" ; Times: 3
+	Query: "iptrecordid:&#34;urn:uuid:6ae7ea5d-f1e0-4c6f-bdc7-6fbc1c5c4f42&#34;" ; Times: 4
+	Query: "Caudiverbera" ; Times: 1
+	Query: "scientificname:&#34;absarokius sp.&#34;" ; Times: 1
+	Query: "american crocodile" ; Times: 3
+	Query: "vasallia" ; Times: 2
+	Query: "scientificname:&#34;texomys sp.&#34;" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "ypm 50306" ; Times: 2
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "scientificname:&#34;didelphodus sp.&#34;" ; Times: 1
+	Query: "recordedby:Judson year &gt;= 1908" ; Times: 1
+	Query: "aye aye" ; Times: 1
+	Query: "scientificname:&#34;phenacolemur willwoodensis&#34;" ; Times: 1
+	Query: "hoplophorus" ; Times: 1
+	Query: "iptrecordid:&#34;urn:uuid:5c960fb6-ffa9-4f26-a483-ec9b53cfb26e&#34;" ; Times: 4
+	Query: "fossa" ; Times: 1
+	Query: "scientificname:&#34;listriodon sp.&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1892 download events in this period)
+Total number of records downloaded: 435982
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 37
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 6
+	Date: 2018-02-15 ; Times: 9
+	Date: 2018-02-16 ; Times: 8
+	Date: 2018-02-22 ; Times: 3
+	Date: 2018-02-13 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-08 ; Times: 4
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;South Dakota&#34; country:&#34;U.S.A&#34;" ; Times: 1
+	Query: "genus:andrias" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "class:Mammalia institutioncode:YPM" ; Times: 7
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Montana&#34; country:&#34;U.S.A&#34;" ; Times: 1
+	Query: "reptile michigan" ; Times: 2
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Colorado&#34; country:&#34;U.S.A&#34;" ; Times: 2
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "Scalopus aquaticus" ; Times: 2
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "genus:Canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34; country:&#34;U.S.A&#34;" ; Times: 1
+	Query: "orycteropus" ; Times: 1
+	Query: "stegomastodon" ; Times: 2
+	Query: "Geomys pinetis" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Wyoming&#34; country:&#34;U.S.A&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Canis lupus" ; Times: 3
+	Query: "nothrotheriops" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Idaho&#34; country:&#34;U.S.A&#34;" ; Times: 1
+	Query: "genus:castor" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34; country:&#34;U.S.A&#34;" ; Times: 1
+
+
+End of report.
