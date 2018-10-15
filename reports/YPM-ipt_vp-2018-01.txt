@@ -1,0 +1,180 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 1804
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 90
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 24
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 6
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 2
+	Date: 2018-01-18 ; Times: 7
+	Date: 2018-01-31 ; Times: 3
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-10 ; Times: 9
+	Date: 2018-01-13 ; Times: 4
+	Date: 2018-01-12 ; Times: 6
+	Date: 2018-01-15 ; Times: 7
+	Date: 2018-01-14 ; Times: 7
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-16 ; Times: 2
+	Date: 2018-01-24 ; Times: 3
+	Date: 2018-01-08 ; Times: 17
+	Date: 2018-01-09 ; Times: 18
+	Date: 2018-01-28 ; Times: 2
+	Date: 2018-01-29 ; Times: 4
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-03 ; Times: 3
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-21 ; Times: 12
+	Date: 2018-01-22 ; Times: 8
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-23 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "(11819) institutioncode:YPM" ; Times: 2
+	Query: "Crex Crex" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 2
+	Query: "genus:Melanosaurus institutioncode:YPM" ; Times: 1
+	Query: "Kenneth W. Johnson" ; Times: 1
+	Query: "genus:Proxestops" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;Indiana&#34; country:&#34;USA&#34; institutioncode:YPM" ; Times: 1
+	Query: "vntype:specimen genus:Macaca institutioncode:YPM" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 6
+	Query: "vntype:specimen county:&#34;Dona Ana&#34; stateprovince:&#34;New Mexico&#34; country:&#34;USA&#34; institutioncode:YPM basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "anteater" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Indiana&#34; country:&#34;USA&#34;" ; Times: 1
+	Query: "Elephas maximus indicus" ; Times: 2
+	Query: "Phyla" ; Times: 1
+	Query: "29233" ; Times: 1
+	Query: "48520" ; Times: 1
+	Query: "genus:Xestops" ; Times: 2
+	Query: "genus:Diatryma institutioncode:YPM" ; Times: 1
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "suid" ; Times: 1
+	Query: "genus:Proxestops institutioncode:YPM" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;New Mexico&#34; country:&#34;USA&#34; institutioncode:YPM basisofrecord:FossilSpecimen" ; Times: 8
+	Query: "dermoptera hastypestatus:1" ; Times: 5
+	Query: "stateprovince:&#34;Montana&#34; institutioncode:YPM isfossil:1" ; Times: 1
+	Query: "vert net" ; Times: 1
+	Query: "Elephas maximus" ; Times: 2
+	Query: "36607" ; Times: 3
+	Query: "genus:Triceratops" ; Times: 4
+	Query: "family:Dinornithidae institutioncode:YPM" ; Times: 1
+	Query: "YPM 042102" ; Times: 2
+	Query: "genus:Macroclemys year &gt;= 1940 year &lt;= 1970" ; Times: 1
+	Query: "genus:Paraglyptosaurus" ; Times: 4
+	Query: "Dinictis" ; Times: 1
+	Query: "catalognumber:011817 collectioncode:VP institutioncode:YPM" ; Times: 1
+	Query: "Sivatherium giganteum" ; Times: 1
+	Query: "genus:Eoglyptosaurus institutioncode:YPM" ; Times: 1
+	Query: "genus:Glyptosaurus institutioncode:YPM" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 12
+	Query: "AMNH 33773" ; Times: 1
+	Query: "484198" ; Times: 1
+	Query: "genus:Eoglyptosaurus" ; Times: 2
+	Query: "genus:Glyptosaurus" ; Times: 6
+	Query: "cetacean fossil" ; Times: 4
+	Query: "genus:Macroclemys year &gt;= 1961 year &lt;= 1961" ; Times: 1
+	Query: "eggs stateprovince:&#34;nebraska&#34; institutioncode:YPM" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 2
+	Query: "510936" ; Times: 1
+	Query: "fraudator" ; Times: 1
+	Query: "Hell Creek Fm." ; Times: 1
+	Query: "amnh 16972" ; Times: 2
+	Query: "genus:Helodermoides" ; Times: 3
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "Loxodonta africana africana" ; Times: 4
+	Query: "Equus asinus" ; Times: 1
+	Query: "genus:Xestops institutioncode:YPM" ; Times: 1
+	Query: "51835" ; Times: 1
+	Query: "trichechidae vntype:specimen institutioncode:YPM" ; Times: 1
+	Query: "AMNH reptiles" ; Times: 2
+	Query: "archaeopteryx" ; Times: 2
+	Query: "North American Armadillo" ; Times: 1
+	Query: "Didelphys" ; Times: 1
+	Query: "catalognumber:011799 collectioncode:VP institutioncode:YPM" ; Times: 1
+	Query: "genus:Melanosaurus" ; Times: 2
+	Query: "Ailuropoda" ; Times: 1
+	Query: "genus:Arpadosaurus institutioncode:YPM" ; Times: 1
+	Query: "genus:Helodermoides institutioncode:YPM" ; Times: 1
+	Query: "genus:Arpadosaurus" ; Times: 2
+	Query: "Limnophis" ; Times: 1
+	Query: "Samuel P. Taylor" ; Times: 1
+	Query: "genus:Paraglyptosaurus institutioncode:YPM" ; Times: 1
+	Query: "Equus asinus asinus" ; Times: 1
+	Query: "18139" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1398 download events in this period)
+Total number of records downloaded: 6810
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 26
+	Country: Italy ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 7
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 1
+	Date: 2018-01-21 ; Times: 1
+	Date: 2018-01-22 ; Times: 3
+	Date: 2018-01-23 ; Times: 5
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-25 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "geomys pinetis" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "elephas maximus continent:asia" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "stateprovince:&#34;santander&#34; country:&#34;colombia&#34;" ; Times: 1
+	Query: "dermoptera hastypestatus:1" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "family:Dinornithidae institutioncode:YPM" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Acipenser vntype:specimen" ; Times: 1
+	Query: "order:Afrosoricida" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Megalurus" ; Times: 2
+	Query: "Epicyon" ; Times: 1
+	Query: "pongo pygmaeus continent:asia" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "Limnophis" ; Times: 1
+	Query: "amphibia madagascar" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+
+
+End of report.
