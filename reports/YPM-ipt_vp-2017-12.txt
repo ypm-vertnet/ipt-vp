@@ -1,0 +1,90 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 606
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: France ; Times: 7
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 5
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-21 ; Times: 3
+	Date: 2017-12-20 ; Times: 4
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-04 ; Times: 7
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 5
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-10 ; Times: 9
+	Date: 2017-12-11 ; Times: 4
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "apataelurus" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "pine marten" ; Times: 3
+	Query: "Squatina squatina" ; Times: 1
+	Query: "ypm 9855" ; Times: 2
+	Query: "soft shelled turtle" ; Times: 1
+	Query: "YPM 16868" ; Times: 2
+	Query: "Jason Angel" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "44483" ; Times: 1
+	Query: "suid" ; Times: 1
+	Query: "Suid" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "ypm 54049" ; Times: 2
+	Query: "37061" ; Times: 1
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "american crocodile" ; Times: 2
+	Query: "YPM 16080" ; Times: 1
+	Query: "ypm 63923" ; Times: 2
+	Query: "family:Rhinocerotidae institutioncode:YPM" ; Times: 4
+	Query: "17521 class:mammalia" ; Times: 1
+	Query: "Deinonychus" ; Times: 1
+	Query: "ypm 18909" ; Times: 2
+	Query: "44494" ; Times: 1
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "ypm 18907" ; Times: 1
+	Query: "Elephant tusk" ; Times: 2
+	Query: "22094" ; Times: 1
+	Query: "YPM 16079" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 674 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-24 ; Times: 1
+	Date: 2017-12-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+
+
+End of report.
