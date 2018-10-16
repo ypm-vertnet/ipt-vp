@@ -1,0 +1,118 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 135
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 33
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-11 ; Times: 4
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 3
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-03 ; Times: 3
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-27 ; Times: 3
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 3
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "apertus" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis (dog OR domestic) institutioncode:YPM" ; Times: 1
+	Query: "Adapis" ; Times: 2
+	Query: "collections crustaceans" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Leptadapis" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "BMNH 92" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Norte de Santander&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "YPM 27634" ; Times: 1
+	Query: "dicrocerus" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "aepyornis" ; Times: 4
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "genus:Dicrocerus class:Mammalia" ; Times: 1
+	Query: "collections crabs" ; Times: 1
+	Query: "vntype:specimen order:Nectridea basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "MCZ 30347" ; Times: 1
+	Query: "Acratocnus odontrigonus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Santander&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "canis familiaris ypm" ; Times: 2
+	Query: "ku 14164" ; Times: 1
+	Query: "YPm 40836" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "Martin Patagonia" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 2
+	Query: "50785" ; Times: 2
+	Query: "YPM 20163" ; Times: 1
+	Query: "bighorn 1860" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1178 download events in this period)
+Total number of records downloaded: 190
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 4
+	Country: Germany ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-22 ; Times: 2
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Amphiuma means" ; Times: 1
+	Query: "brain size" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "genus:arctodus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "vntype:specimen family:Sciuridae (miocene) isfossil:1" ; Times: 1
+	Query: "marshalltown" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "african Elephant" ; Times: 3
+
+
+End of report.
