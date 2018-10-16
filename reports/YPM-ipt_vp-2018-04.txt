@@ -1,0 +1,127 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 173
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 32
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 5
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 6
+	Date: 2018-04-17 ; Times: 3
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-08 ; Times: 3
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-21 ; Times: 3
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "26781" ; Times: 1
+	Query: "marsh turtle" ; Times: 2
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "58831" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 3
+	Query: "Tiktaalik" ; Times: 1
+	Query: "genus:bootherium" ; Times: 1
+	Query: "054752" ; Times: 1
+	Query: "dubium" ; Times: 1
+	Query: "stateprovince:&#34;California&#34; recordedby:pratt year &gt;= 1850 year &lt;= 1935" ; Times: 1
+	Query: "Utah turtle" ; Times: 3
+	Query: "Saniwa ensidens" ; Times: 5
+	Query: "genus:Limnophis" ; Times: 1
+	Query: "vntype:specimen genus:Trachemys institutioncode:YPM" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "29110" ; Times: 1
+	Query: "35872" ; Times: 1
+	Query: "rheas" ; Times: 2
+	Query: "348490" ; Times: 1
+	Query: "symbos" ; Times: 2
+	Query: "ANSP 15593" ; Times: 2
+	Query: "Raptors" ; Times: 1
+	Query: "genus:cervalces" ; Times: 1
+	Query: "stegomastodon" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "29688" ; Times: 1
+	Query: "genus:aepyornis" ; Times: 2
+	Query: "Limnophis" ; Times: 2
+	Query: "bootherium" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1359 download events in this period)
+Total number of records downloaded: 82
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 12
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 1
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-28 ; Times: 1
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "gobius" ; Times: 1
+	Query: "stegomastodon" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "class:Aves county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "amia calva" ; Times: 1
+
+
+End of report.
