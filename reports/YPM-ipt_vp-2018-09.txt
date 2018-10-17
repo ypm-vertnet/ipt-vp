@@ -1,0 +1,152 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 695
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 5
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 56
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 6
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 5
+	Date: 2018-09-26 ; Times: 9
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 14
+	Date: 2018-09-22 ; Times: 4
+	Date: 2018-09-05 ; Times: 17
+	Date: 2018-09-09 ; Times: 3
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 2
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 5
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-07 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Conohyus specificepithet:sp." ; Times: 1
+	Query: "genus:Listriodon specificepithet:sp." ; Times: 1
+	Query: "star-nosed moles" ; Times: 1
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 1
+	Query: "catalognumber:000444 institutioncode:YPM" ; Times: 1
+	Query: "YPM 6325" ; Times: 1
+	Query: "genus: rhamphorhynchus" ; Times: 1
+	Query: "ypm 51811" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 16
+	Query: "genus:Pterosphenus" ; Times: 2
+	Query: "49597" ; Times: 1
+	Query: "genus:Sciuravus specificepithet:sp." ; Times: 1
+	Query: "FMNH 13908" ; Times: 1
+	Query: "genus:Prolagus institutioncode:YPM" ; Times: 3
+	Query: "YPM 6322" ; Times: 2
+	Query: "genus:Elphidotarsius specificepithet:sp." ; Times: 1
+	Query: "(B-16792 16792)" ; Times: 1
+	Query: "George W. Carroll" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "genus:Reithroparamys specificepithet:sp." ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "aepyornis" ; Times: 1
+	Query: "mammalian teeth" ; Times: 1
+	Query: "ypm 53372" ; Times: 1
+	Query: "genus:Scenopagus specificepithet:sp." ; Times: 1
+	Query: "Stygimoloch" ; Times: 1
+	Query: "Cervalces scotti" ; Times: 3
+	Query: "43935" ; Times: 1
+	Query: "genus:Megalosaurus specificepithet:bucklandii" ; Times: 1
+	Query: "YPM 6327" ; Times: 1
+	Query: "YPM 6326" ; Times: 1
+	Query: "genus:Wallabia institutioncode:YPM" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 1
+	Query: "YPM 6323" ; Times: 1
+	Query: "ancient mammal" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "vntype:specimen order:Perissodactyla institutioncode:YPM" ; Times: 2
+	Query: "ypm 24992" ; Times: 1
+	Query: "genus:Dendropithecus specificepithet:macinnesi" ; Times: 1
+	Query: "genus:Plagiomene specificepithet:sp." ; Times: 1
+	Query: "genus:Grallator specificepithet:sp." ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "YPM 6328" ; Times: 2
+	Query: "49597 mammalia" ; Times: 2
+	Query: "KU 14164" ; Times: 2
+	Query: "ypm 41427" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "genus:Cynocephalus institutioncode:YPM" ; Times: 5
+	Query: "order:Perissodactyla institutioncode:YPM" ; Times: 1
+	Query: "Mammuthus meridionalis" ; Times: 1
+	Query: "genus:Diplodocus specificepithet:sp." ; Times: 1
+	Query: "hylonomus lyelli" ; Times: 2
+	Query: "sharks" ; Times: 2
+	Query: "avian archive" ; Times: 1
+	Query: "birds and reptiles" ; Times: 1
+	Query: "genus:Apterodon specificepithet:sp." ; Times: 1
+	Query: "hutia" ; Times: 1
+	Query: "ypm 46776" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 846 download events in this period)
+Total number of records downloaded: 2345
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Canada ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-24 ; Times: 3
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "amphiuma means" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "family:Rhinocerotidae continent:North America isfossil:1" ; Times: 1
+	Query: "giant salamander" ; Times: 1
+	Query: "Pachycephalosaurus" ; Times: 2
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus isfossil:1" ; Times: 1
+	Query: "Wolverine" ; Times: 3
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "class:mammalia county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "macroclemys" ; Times: 1
+	Query: "class:Mammalia (baculum)" ; Times: 1
+
+
+End of report.
