@@ -1,0 +1,135 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 105
+Number of records retrieved in searches: 1010
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 92
+	Country: Germany ; Times: 1
+	Country: Denmark ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-26 ; Times: 3
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-25 ; Times: 5
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-22 ; Times: 44
+	Date: 2018-08-21 ; Times: 1
+	Date: 2018-08-20 ; Times: 21
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-06 ; Times: 5
+	Date: 2018-08-01 ; Times: 7
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Conohyus specificepithet:sp." ; Times: 4
+	Query: "genus:Listriodon specificepithet:sp." ; Times: 4
+	Query: "adocus" ; Times: 1
+	Query: "19663 AMNH" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 3
+	Query: "353929" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "latonia" ; Times: 2
+	Query: "genus:Sciuravus specificepithet:sp." ; Times: 4
+	Query: "family:Lauraceae" ; Times: 1
+	Query: "Pezophaps" ; Times: 1
+	Query: "ypm 51957" ; Times: 1
+	Query: "genus:Elphidotarsius specificepithet:sp." ; Times: 3
+	Query: "39306" ; Times: 1
+	Query: "teeth oklahoma" ; Times: 1
+	Query: "B.39306" ; Times: 1
+	Query: "genus:Ailuropoda" ; Times: 3
+	Query: "adocus isfossil:1" ; Times: 1
+	Query: "genus:EMYDOIDEA county:&#34;Cherry&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "B-3403" ; Times: 1
+	Query: "032613" ; Times: 1
+	Query: "genus:Scenopagus specificepithet:sp." ; Times: 3
+	Query: "59754" ; Times: 1
+	Query: "genus:Megalosaurus specificepithet:bucklandii" ; Times: 4
+	Query: "genus:Reithroparamys specificepithet:sp." ; Times: 4
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 4
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "genus:Dendropithecus specificepithet:macinnesi" ; Times: 3
+	Query: "34645" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 3
+	Query: "George Carroll" ; Times: 2
+	Query: "41411" ; Times: 1
+	Query: "genus:Plagiomene specificepithet:sp." ; Times: 4
+	Query: "15862" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "South Sentinel" ; Times: 1
+	Query: "mammoth institutioncode:YPM isfossil:1" ; Times: 1
+	Query: "ypm 855" ; Times: 2
+	Query: "genus:Grallator specificepithet:sp." ; Times: 4
+	Query: "Agassiz 1872" ; Times: 1
+	Query: "aye aye" ; Times: 2
+	Query: "aye-aye" ; Times: 1
+	Query: "347536" ; Times: 1
+	Query: "Baena arenosa" ; Times: 2
+	Query: "57648" ; Times: 1
+	Query: "genus:Diplodocus specificepithet:sp." ; Times: 3
+	Query: "genus:Mammuthus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;duplin&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 4
+	Query: "genus:Apterodon specificepithet:sp." ; Times: 3
+	Query: "13171" ; Times: 1
+	Query: "19663 AMNh" ; Times: 1
+	Query: "33004" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 1416 download events in this period)
+Total number of records downloaded: 1503
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: India ; Times: 1
+	Country: Spain ; Times: 4
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-25 ; Times: 1
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-23 ; Times: 3
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Heloderma" ; Times: 1
+	Query: "hELODERMA" ; Times: 1
+	Query: "mammals of india" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "country:&#34;poland&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;duplin&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "crotalinae" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "genus:Rhineura" ; Times: 1
+
+
+End of report.
