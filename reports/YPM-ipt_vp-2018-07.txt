@@ -1,0 +1,134 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 368
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 51
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-03 ; Times: 6
+	Date: 2018-07-28 ; Times: 1
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 3
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 4
+	Date: 2018-07-06 ; Times: 4
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 10
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-25 ; Times: 5
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 2
+	Date: 2018-07-11 ; Times: 6
+	Date: 2018-07-10 ; Times: 4
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-31 ; Times: 1
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "53355" ; Times: 1
+	Query: "papio vntype:specimen institutioncode:YPM" ; Times: 1
+	Query: "347393" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "genus:eusmilus" ; Times: 1
+	Query: "genus:Moropus" ; Times: 3
+	Query: "20163 YPM" ; Times: 1
+	Query: "008731 ypm" ; Times: 1
+	Query: "Drymarchon florida" ; Times: 1
+	Query: "Meleagris gallopavo Linnaeus" ; Times: 1
+	Query: "THE NATURAL HISTORY SOCIETY OF MARYLAND" ; Times: 1
+	Query: "javelina" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "MCZ A-17129" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "ichthyornis" ; Times: 1
+	Query: "Peabody Micrurus" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "56062" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "lists of museum collections of birds" ; Times: 1
+	Query: "39041" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "dunkard" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;USA&#34;" ; Times: 1
+	Query: "ypm" ; Times: 1
+	Query: "eusmilus" ; Times: 1
+	Query: "squalicorax" ; Times: 1
+	Query: "Conolophus" ; Times: 1
+	Query: "paucidens" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "chow chow ypm" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "recordedby:Grant year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "SP 3239" ; Times: 1
+	Query: "49649-1" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:YPM" ; Times: 1
+	Query: "Hesperornis" ; Times: 1
+	Query: "YPM 3320" ; Times: 1
+	Query: "dinornis" ; Times: 2
+	Query: "Boar skull" ; Times: 1
+	Query: "Ailuropoda" ; Times: 13
+	Query: "8731 ypm" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "Seriema" ; Times: 1
+	Query: "genus:Cardipeltis isfossil:1" ; Times: 1
+	Query: "sea turtles" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 977 download events in this period)
+Total number of records downloaded: 135
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-09 ; Times: 1
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-20 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Comal county" ; Times: 1
+	Query: "class:Aves institutioncode:YPM hastypestatus:1" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "Ailuropoda" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis institutioncode:YPM" ; Times: 1
+	Query: "genus:Peromyscus institutioncode:YPM" ; Times: 1
+
+
+End of report.
