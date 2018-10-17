@@ -1,0 +1,132 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 507
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Canada ; Times: 7
+	Country: Argentina ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 9
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-14 ; Times: 4
+	Date: 2018-06-27 ; Times: 6
+	Date: 2018-06-26 ; Times: 9
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-30 ; Times: 1
+	Date: 2018-06-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "42139-1" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1910 year &lt;= 1919 institutioncode:YPM" ; Times: 2
+	Query: "Adapis" ; Times: 3
+	Query: "353622" ; Times: 2
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Red Panda" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 7
+	Query: "Pangolin" ; Times: 1
+	Query: "Ctenodon ctenodon" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "order:urodela continent:North America year &gt;= 1918 year &lt;= 2018" ; Times: 3
+	Query: "hesperornithiform" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "smilodectes" ; Times: 2
+	Query: "red panda" ; Times: 3
+	Query: "pangolin" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "fieldnumber:2027" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Sivatherium" ; Times: 4
+	Query: "52549" ; Times: 1
+	Query: "family:Lemuridae institutioncode:YPM" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "appendages" ; Times: 1
+	Query: "dinosaur north carolina" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "hesperornithiformes" ; Times: 2
+	Query: "sloths" ; Times: 1
+	Query: "bear scapula" ; Times: 1
+	Query: "hesperornis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 41 (out of 1169 download events in this period)
+Total number of records downloaded: 717
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 35
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Spain ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-07 ; Times: 15
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-08 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "sloth" ; Times: 4
+	Query: "gray wolf" ; Times: 2
+	Query: "Siren lacertina" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "african Elephant" ; Times: 1
+	Query: "red panda" ; Times: 3
+	Query: "red fox" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "African elephant" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "armadillo" ; Times: 1
+	Query: "American Beaver" ; Times: 4
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Wood turtle" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "giant salamander" ; Times: 2
+	Query: "valliceps" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "Gray wolf continent:North America" ; Times: 1
+	Query: "salamander oregon" ; Times: 2
+	Query: "alces alces" ; Times: 1
+	Query: "sloths" ; Times: 2
+	Query: "crotalus adamanteus" ; Times: 1
+
+
+End of report.
