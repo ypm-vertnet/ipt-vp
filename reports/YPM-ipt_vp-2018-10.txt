@@ -1,0 +1,143 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 692
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 45
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 13
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 3
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-01 ; Times: 5
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-05 ; Times: 4
+	Date: 2018-10-06 ; Times: 1
+	Date: 2018-10-26 ; Times: 12
+	Date: 2018-10-27 ; Times: 5
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-28 ; Times: 1
+	Date: 2018-10-29 ; Times: 5
+	Date: 2018-10-08 ; Times: 4
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 9
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-12 ; Times: 5
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gavialis" ; Times: 1
+	Query: "catalognumber:008163" ; Times: 1
+	Query: "034094" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 14
+	Query: "Coniophis" ; Times: 1
+	Query: "vulpes vulpes stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "catalognumber:015058 institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:constrictor genus:coluber institutioncode:YPM" ; Times: 1
+	Query: "genus:Trichechus institutioncode:YPM" ; Times: 1
+	Query: "apes" ; Times: 1
+	Query: "genus:heterodon county:&#34;marion&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "order:Saurischia institutioncode:YPM" ; Times: 1
+	Query: "53278 mammalia" ; Times: 1
+	Query: "catalognumber:034094" ; Times: 1
+	Query: "capybara" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 2
+	Query: "53280 mammalia" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "snapping turtles" ; Times: 2
+	Query: "pond turtles" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Tarsier" ; Times: 2
+	Query: "Florida drymarchon" ; Times: 1
+	Query: "banffshire" ; Times: 2
+	Query: "vulpes vulpes stateprovince:&#34;nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "pseudalopex culpaeus" ; Times: 1
+	Query: "genus:Rhinoceros institutioncode:YPM" ; Times: 2
+	Query: "great ape" ; Times: 1
+	Query: "Hypsognathus" ; Times: 2
+	Query: "specificepithet:amphibius genus:Arvicola" ; Times: 1
+	Query: "genus:carphophis institutioncode:YPM" ; Times: 1
+	Query: "Hartnagel" ; Times: 1
+	Query: "Vulpavus" ; Times: 1
+	Query: "order:Saurischia collectioncode:VP institutioncode:YPM" ; Times: 1
+	Query: "vulpes vulpes stateprovince:&#34;nebraska&#34; year &lt;= 1971" ; Times: 2
+	Query: "53793" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "genus:drymarchon county:&#34;marion&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "catalognumber:015058" ; Times: 1
+	Query: "genus:diceros institutioncode:YPM" ; Times: 4
+	Query: "tortoises" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1300 download events in this period)
+Total number of records downloaded: 18420
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 2
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vulpes vulpes stateprovince:&#34;nebraska&#34; year &lt;= 1970" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "order:Saurischia collectioncode:VP institutioncode:YPM" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "neofiber alleni" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "pseudalopex culpaeus" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "Corynorhinus" ; Times: 1
+	Query: "genus:Limnophis" ; Times: 1
+	Query: "class:Reptilia institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:alleni genus:neofiber stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "mammals colombia" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "canis latrans country:&#34;USA&#34;" ; Times: 1
+
+
+End of report.
