@@ -1,0 +1,183 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 1181
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 7
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: United States ; Times: 107
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 3
+	Date: 2018-11-29 ; Times: 6
+	Date: 2018-11-04 ; Times: 38
+	Date: 2018-11-09 ; Times: 7
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 2
+	Date: 2018-11-05 ; Times: 38
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-14 ; Times: 5
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-24 ; Times: 1
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-21 ; Times: 2
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-30 ; Times: 5
+	Date: 2018-11-10 ; Times: 4
+	Date: 2018-11-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Conohyus specificepithet:sp." ; Times: 4
+	Query: "genus:Listriodon specificepithet:sp." ; Times: 4
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "vntype:specimen class:amphibia (milner)" ; Times: 1
+	Query: "genus:Dendropithecus specificepithet:macinnesi" ; Times: 4
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 4
+	Query: "27647" ; Times: 1
+	Query: "23341" ; Times: 1
+	Query: "crocodylomorph" ; Times: 1
+	Query: "genus:Sciuravus specificepithet:sp." ; Times: 4
+	Query: "Neldasaurus" ; Times: 1
+	Query: "UCMP 8433" ; Times: 1
+	Query: "UCMP 9651" ; Times: 2
+	Query: "genus:Elphidotarsius specificepithet:sp." ; Times: 4
+	Query: "Exostinus lancensis" ; Times: 2
+	Query: "genus:Brychaetus" ; Times: 1
+	Query: "suid" ; Times: 1
+	Query: "(Marine plants)" ; Times: 1
+	Query: "specificepithet:lupus genus:canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "insectivorous mammals" ; Times: 1
+	Query: "vntype:specimen class:amphibia (milner) year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "YPM 51811" ; Times: 1
+	Query: "45122" ; Times: 2
+	Query: "milner vntype:specimen class:amphibia year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "raptor bones" ; Times: 1
+	Query: "genus:Scenopagus specificepithet:sp." ; Times: 4
+	Query: "fieldnumber:11320" ; Times: 1
+	Query: "genus:Megalosaurus specificepithet:bucklandii" ; Times: 4
+	Query: "langur" ; Times: 1
+	Query: "genus:Reithroparamys specificepithet:sp." ; Times: 4
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 4
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 4
+	Query: "45657" ; Times: 1
+	Query: "Arctodus simus" ; Times: 7
+	Query: "Restes rugosus" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 4
+	Query: "genus:Plagiomene specificepithet:sp." ; Times: 4
+	Query: "genus:Grallator specificepithet:sp." ; Times: 4
+	Query: "extinct animals" ; Times: 1
+	Query: "sphenosuchidae" ; Times: 1
+	Query: "vulpes vulpes stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 4
+	Query: "Exostinus serratus" ; Times: 2
+	Query: "KU 14164" ; Times: 2
+	Query: "YPM 46776" ; Times: 1
+	Query: "genus:Diplodocus specificepithet:sp." ; Times: 4
+	Query: "UCMP 8300" ; Times: 1
+	Query: "genus:Moeritherium specificepithet:sp." ; Times: 4
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 4
+	Query: "genus:Apterodon specificepithet:sp." ; Times: 4
+	Query: "Vulpes vulpes stateprovince:&#34;nebraska&#34;" ; Times: 2
+	Query: "28134" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "family:echimyidae institutioncode:YPM" ; Times: 1
+	Query: "phytosaur" ; Times: 2
+	Query: "seriema" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1719 download events in this period)
+Total number of records downloaded: 293
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 4
+	Date: 2018-11-06 ; Times: 6
+	Date: 2018-11-05 ; Times: 1
+	Date: 2018-11-14 ; Times: 3
+	Date: 2018-11-02 ; Times: 5
+	Date: 2018-11-01 ; Times: 2
+	Date: 2018-11-15 ; Times: 6
+	Date: 2018-11-10 ; Times: 2
+	Date: 2018-11-27 ; Times: 3
+	Date: 2018-11-26 ; Times: 4
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-22 ; Times: 1
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-11 ; Times: 3
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:felidae continent:north america isfossil:1" ; Times: 1
+	Query: "family:Gobiidae institutioncode:YPM" ; Times: 1
+	Query: "meles meles" ; Times: 1
+	Query: "specificepithet:floridanus genus:Sylvilagus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "genus:Sylvilagus floridanus" ; Times: 1
+	Query: "genus:Canis latrans" ; Times: 1
+	Query: "genus:Sigmodon hispidus" ; Times: 1
+	Query: "Capreolus capreolus" ; Times: 1
+	Query: "Castor Canadensis" ; Times: 1
+	Query: "baculum vntype:specimen order:Carnivora" ; Times: 1
+	Query: "specificepithet:dirus genus:canis basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Buteo buteo" ; Times: 1
+	Query: "Sciurinae" ; Times: 1
+	Query: "Arctodus simus" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "specificepithet:lupus genus:canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "genus:Odocoileus virginianus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Odocoileus" ; Times: 1
+	Query: "pythonidae" ; Times: 1
+	Query: "class:mammalia country:&#34;Saudi Arabia&#34;" ; Times: 1
+	Query: "family:vespertilionidae continent:North America institutioncode:YPM" ; Times: 1
+	Query: "chiroptera eptesicus vntype:specimen isfossil:1" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "procyon lotor" ; Times: 3
+	Query: "Sigmodon hispidus" ; Times: 1
+	Query: "specificepithet:temminckii family:Chelydridae" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 2
+	Query: "family:felidae continent:south america isfossil:1" ; Times: 1
+	Query: "stateprovince:&#34;sicily&#34;" ; Times: 1
+	Query: "Mephitis mephitis" ; Times: 1
+	Query: "Arctodus" ; Times: 1
+	Query: "genus:Procyon lotor" ; Times: 1
+	Query: "Vulpes vulpes stateprovince:&#34;nebraska&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lutra lutra" ; Times: 1
+	Query: "procyon" ; Times: 3
+
+
+End of report.
