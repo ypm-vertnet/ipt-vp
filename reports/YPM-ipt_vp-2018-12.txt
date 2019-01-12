@@ -1,0 +1,124 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 2818
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 19
+	Country: United States ; Times: 26
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-29 ; Times: 3
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-02 ; Times: 10
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-15 ; Times: 4
+	Date: 2018-12-22 ; Times: 2
+	Date: 2018-12-23 ; Times: 1
+	Date: 2018-12-24 ; Times: 1
+	Date: 2018-12-13 ; Times: 6
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Hypertragulidae north america" ; Times: 9
+	Query: "Paratylopus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Nanotragulus north america" ; Times: 2
+	Query: "46722" ; Times: 1
+	Query: "37809" ; Times: 1
+	Query: "Pangshura" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanoleuca genus:Ailuropoda" ; Times: 1
+	Query: "specificepithet:lupus genus:canis institutioncode:YPM" ; Times: 1
+	Query: "genus:Drymarchon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "hypertragulus" ; Times: 2
+	Query: "class:Reptilia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "loxodon" ; Times: 1
+	Query: "adapis" ; Times: 1
+	Query: "Wall Lizard" ; Times: 1
+	Query: "class:Amphibia county:&#34;Baylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 8
+	Query: "33307" ; Times: 2
+	Query: "Mammal footprints" ; Times: 1
+	Query: "35439" ; Times: 1
+	Query: "Protopterus" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;Arizona&#34;" ; Times: 3
+	Query: "KU 14164" ; Times: 1
+	Query: "46137" ; Times: 2
+	Query: "Miolabis" ; Times: 1
+	Query: "elapidae institutioncode:YPM" ; Times: 1
+	Query: "Synapsid" ; Times: 1
+	Query: "Poebrotherium" ; Times: 1
+	Query: "Hypertragulidae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 809 download events in this period)
+Total number of records downloaded: 2479
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 15
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-30 ; Times: 1
+	Date: 2018-12-21 ; Times: 2
+	Date: 2018-12-22 ; Times: 7
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 3
+	Date: 2018-12-09 ; Times: 6
+	Date: 2018-12-07 ; Times: 1
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-13 ; Times: 1
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanoleuca genus:Ailuropoda" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;tulare&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Loxodonta africana vntype:specimen" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Mammal footprints" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 3
+	Query: "sylvilagus floridanus" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "vntype:specimen class:reptilia AND (NOT PARATYPE) hastypestatus:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;fresno&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+
+
+End of report.
