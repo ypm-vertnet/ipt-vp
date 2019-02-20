@@ -1,0 +1,170 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 106
+Number of records retrieved in searches: 1505
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 86
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Belgium ; Times: 7
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 5
+	Date: 2019-01-07 ; Times: 5
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 5
+	Date: 2019-01-04 ; Times: 2
+	Date: 2019-01-14 ; Times: 12
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-09 ; Times: 13
+	Date: 2019-01-31 ; Times: 25
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-12 ; Times: 7
+	Date: 2019-01-13 ; Times: 7
+	Date: 2019-01-21 ; Times: 2
+	Date: 2019-01-27 ; Times: 2
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-24 ; Times: 3
+	Date: 2019-01-30 ; Times: 3
+	Date: 2019-01-16 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:bauri genus:Coelophysis" ; Times: 1
+	Query: "ornithomimidae" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "rhineura" ; Times: 1
+	Query: "coelurosauria" ; Times: 1
+	Query: "batoidea" ; Times: 2
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "axis deer" ; Times: 1
+	Query: "anoxypristis" ; Times: 2
+	Query: "Emydoidea nebraska" ; Times: 2
+	Query: "dermoptera" ; Times: 19
+	Query: "gbifdatasetid:9643f840-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "ypm 024466" ; Times: 4
+	Query: "Asian elephant" ; Times: 1
+	Query: "specificepithet:longipes genus:Compsognathus" ; Times: 9
+	Query: "Glires isfossil:1" ; Times: 2
+	Query: "48586" ; Times: 1
+	Query: "ypm 053961" ; Times: 2
+	Query: "soft shell turtles" ; Times: 1
+	Query: "genus:Coelophysis" ; Times: 1
+	Query: "wall lizard" ; Times: 2
+	Query: "Caenagnathidae" ; Times: 1
+	Query: "056003" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 2
+	Query: "lacertoides" ; Times: 1
+	Query: "tiktaalik" ; Times: 1
+	Query: "american crocodile" ; Times: 2
+	Query: "ypm 024467" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "YPM 014525" ; Times: 1
+	Query: "xenicus" ; Times: 1
+	Query: "ypm 16889" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 1
+	Query: "31794" ; Times: 1
+	Query: "Potamites" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "ypm 15013" ; Times: 2
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:YPM" ; Times: 3
+	Query: "genus:Alces continent:North America isfossil:1" ; Times: 1
+	Query: "54461" ; Times: 1
+	Query: "carcharocles stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "58523" ; Times: 1
+	Query: "croco" ; Times: 1
+	Query: "american crocodiles" ; Times: 1
+	Query: "owenii" ; Times: 2
+	Query: "amphibians University of Michigan Museum of Zoology" ; Times: 2
+	Query: "15059" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus institutioncode:YPM isfossil:1" ; Times: 1
+	Query: "Euceratherium" ; Times: 1
+	Query: "vntype:specimen genus:Microtus institutioncode:YPM isfossil:1" ; Times: 1
+	Query: "protapirus" ; Times: 1
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "ypm 040516" ; Times: 2
+	Query: "dryptosaurus" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "specificepithet:lithographica genus:Archaeopteryx isfossil:1" ; Times: 1
+	Query: "014525" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 103 (out of 962 download events in this period)
+Total number of records downloaded: 89954
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 96
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 22
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-08 ; Times: 3
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-19 ; Times: 2
+	Date: 2019-01-28 ; Times: 7
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-31 ; Times: 23
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-30 ; Times: 13
+	Date: 2019-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnophiona" ; Times: 1
+	Query: "class:Mammalia county:&#34;polk&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia institutioncode:YPM" ; Times: 1
+	Query: "vntype:specimen carettochelys" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "class:Mammalia county:&#34;tyler&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Crocodilia" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Nauta" ; Times: 1
+	Query: "vntype:specimen family:Carettochelyidae" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis country:&#34;mexico&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "elephas maximus" ; Times: 1
+	Query: "genus:Alces continent:North America isfossil:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "cynocephalidae" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "dermoptera" ; Times: 35
+	Query: "Carettochelys" ; Times: 1
+
+
+End of report.
