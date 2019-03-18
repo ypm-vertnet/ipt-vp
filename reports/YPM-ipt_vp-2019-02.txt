@@ -1,0 +1,117 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 775
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 25
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: Serbia ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 5
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-09 ; Times: 8
+	Date: 2019-02-28 ; Times: 3
+	Date: 2019-02-01 ; Times: 7
+	Date: 2019-02-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "great argus" ; Times: 1
+	Query: "county:&#34;San Diego County&#34; isfossil:1" ; Times: 1
+	Query: "58978" ; Times: 1
+	Query: "Charadriiform" ; Times: 1
+	Query: "tardigrada" ; Times: 1
+	Query: "IRSNB 17" ; Times: 2
+	Query: "Megalosaurus" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "YPM 005515" ; Times: 1
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "352679" ; Times: 1
+	Query: "ypm 024466" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "ypm 053961" ; Times: 1
+	Query: "Pithecus" ; Times: 1
+	Query: "GLOBAL WARMING" ; Times: 1
+	Query: "yale (Ichthyornis)" ; Times: 2
+	Query: "salamandar" ; Times: 1
+	Query: "plantae" ; Times: 1
+	Query: "coelophysis" ; Times: 1
+	Query: "(Ichthyornis)" ; Times: 4
+	Query: "32777" ; Times: 2
+	Query: "Ornithurae" ; Times: 1
+	Query: "family:Nimravidae basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "32402" ; Times: 1
+	Query: "erethizon &#34;maryland&#34;" ; Times: 5
+	Query: "gavialis" ; Times: 1
+	Query: "Reptilia Mississippi tishomingo" ; Times: 1
+	Query: "diplocynodon" ; Times: 2
+	Query: "childs frick" ; Times: 1
+	Query: "ypm 040516" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1227 download events in this period)
+Total number of records downloaded: 2716
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:gobiidae institutioncode:YPM" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "genus:Camelops isfossil:1" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "canis lupus Mexico" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "Dermoptera" ; Times: 3
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "vntype:specimen genus:Odocoileus basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+
+
+End of report.
