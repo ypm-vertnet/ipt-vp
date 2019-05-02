@@ -1,0 +1,139 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 354
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 50
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Switzerland ; Times: 9
+	Country: Germany ; Times: 6
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-05 ; Times: 6
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 10
+	Date: 2019-04-17 ; Times: 10
+	Date: 2019-04-16 ; Times: 7
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 3
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-02 ; Times: 5
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-23 ; Times: 2
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-26 ; Times: 4
+	Date: 2019-04-01 ; Times: 5
+	Date: 2019-04-24 ; Times: 4
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 8
+	Date: 2019-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 2
+	Query: "Arretotherium" ; Times: 2
+	Query: "genus:siren institutioncode:YPM" ; Times: 1
+	Query: "ypm micrurus" ; Times: 1
+	Query: "12171 class:Mammalia" ; Times: 3
+	Query: "011047" ; Times: 1
+	Query: "limnophis" ; Times: 1
+	Query: "tomistoma" ; Times: 2
+	Query: "35899" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "catalognumber:005759" ; Times: 2
+	Query: "Gavialis" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Rahonavis ostromi" ; Times: 3
+	Query: "ANSP Mammal" ; Times: 1
+	Query: "YPM 59237" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "30033 class:Mammalia" ; Times: 1
+	Query: "catalognumber:002493" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "obdurodon" ; Times: 1
+	Query: "catalognumber:010401" ; Times: 2
+	Query: "catalognumber:008597" ; Times: 2
+	Query: "57103" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 2
+	Query: "genus:Spilogale institutioncode:YPM" ; Times: 1
+	Query: "YPM 002925" ; Times: 1
+	Query: "YPM 004058" ; Times: 1
+	Query: "YPM 59241" ; Times: 1
+	Query: "YPM 59240" ; Times: 1
+	Query: "30274 mammalia" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "25385 class:Mammalia" ; Times: 1
+	Query: "soft shell turtle" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "57105" ; Times: 1
+	Query: "025583" ; Times: 1
+	Query: "recordedby:carpenter year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "RM 4940" ; Times: 1
+	Query: "adaptive radiation" ; Times: 2
+	Query: "catalognumber:010410" ; Times: 2
+	Query: "Dicotyles" ; Times: 1
+	Query: "30030 class:Mammalia" ; Times: 1
+	Query: "12171 class:mammalia" ; Times: 2
+	Query: "genus:amphiuma basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "entelodont" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "lemurs" ; Times: 2
+	Query: "46954" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "Merritt institutioncode:YPM" ; Times: 2
+	Query: "YPM 59239" ; Times: 2
+	Query: "sclerotic ring" ; Times: 3
+	Query: "ypm 46776" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1263 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Kyrgyzstan" ; Times: 1
+	Query: "Gekkota" ; Times: 1
+	Query: "canis lupus (mexico)" ; Times: 2
+	Query: "snowshoe hare" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "limnophis" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+
+
+End of report.
