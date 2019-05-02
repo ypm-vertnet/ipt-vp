@@ -1,0 +1,131 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 48
+Number of records retrieved in searches: 457
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 19
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 7
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-02 ; Times: 2
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-31 ; Times: 6
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-18 ; Times: 3
+	Date: 2019-03-20 ; Times: 6
+	Date: 2019-03-05 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 7
+	Date: 2019-03-01 ; Times: 7
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-29 ; Times: 1
+	Date: 2019-03-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "54495" ; Times: 1
+	Query: "eusthenopteron" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "yale peabody" ; Times: 1
+	Query: "genus:siren institutioncode:YPM" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "hutia" ; Times: 1
+	Query: "mazon creek fossils" ; Times: 1
+	Query: "poebrotherium" ; Times: 3
+	Query: "velociraptor" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "ypm 005775" ; Times: 2
+	Query: "diadectes" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "order:Dinornithiformes country:&#34;new zealand&#34; AND (skeleton)" ; Times: 1
+	Query: "002925" ; Times: 1
+	Query: "Liodytes alleni" ; Times: 1
+	Query: "Crenidens" ; Times: 1
+	Query: "quetzalcoatlus" ; Times: 1
+	Query: "pteranodon" ; Times: 1
+	Query: "YPM 002925" ; Times: 1
+	Query: "pond turtles" ; Times: 1
+	Query: "daspletosaurus" ; Times: 1
+	Query: "54471" ; Times: 1
+	Query: "eunotosaurus" ; Times: 1
+	Query: "Pseudemys AL" ; Times: 1
+	Query: "Potamites" ; Times: 1
+	Query: "order:Dinornithiformes AND (egg)" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "Reptilia Alabama montgomery" ; Times: 1
+	Query: "order:Dinornithiformes" ; Times: 1
+	Query: "extinction data" ; Times: 1
+	Query: "Primat" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "YPM 014417" ; Times: 1
+	Query: "48319" ; Times: 1
+	Query: "YPM 025529" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1281 download events in this period)
+Total number of records downloaded: 142
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Argentina ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia county:&#34;wayne&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "genus:Meles" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Montague&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(charadricola OR robertsorum OR thorectes OR hazelae OR sabrina)" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Guilday" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "panda" ; Times: 2
+	Query: "genus:pongo" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+
+
+End of report.
