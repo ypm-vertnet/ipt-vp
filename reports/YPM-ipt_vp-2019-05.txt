@@ -1,0 +1,108 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 217
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: United States ; Times: 27
+	Country: Germany ; Times: 3
+	Country: United Kingdom ; Times: 3
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-31 ; Times: 6
+	Date: 2019-05-08 ; Times: 2
+	Date: 2019-05-07 ; Times: 3
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-05 ; Times: 2
+	Date: 2019-05-02 ; Times: 3
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 9
+	Date: 2019-05-20 ; Times: 3
+	Date: 2019-05-23 ; Times: 4
+	Date: 2019-05-22 ; Times: 6
+	Date: 2019-05-29 ; Times: 3
+	Date: 2019-05-28 ; Times: 6
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "Leatherback sea turtle" ; Times: 2
+	Query: "Glyphis glyphis" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Sea turtle skeleton" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "ailuropoda" ; Times: 1
+	Query: "Capybara" ; Times: 1
+	Query: "felid" ; Times: 1
+	Query: "13330 AMNH" ; Times: 3
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "American crocodile" ; Times: 6
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "class:Reptilia county:&#34;New Castle&#34; stateprovince:&#34;Delaware&#34;" ; Times: 1
+	Query: "chimpanzees" ; Times: 1
+	Query: "13329 AMNH" ; Times: 3
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "shark guide" ; Times: 1
+	Query: "Dunkleosteus" ; Times: 2
+	Query: "diadectid" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "59408" ; Times: 1
+	Query: "Giant Salamander" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "institutioncode:ypm 2440" ; Times: 1
+	Query: "Gophers" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "045020" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 940 download events in this period)
+Total number of records downloaded: 18
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Red panda" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "vntype:specimen genus:grus" ; Times: 1
+
+
+End of report.
