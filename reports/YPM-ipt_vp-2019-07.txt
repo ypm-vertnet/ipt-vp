@@ -1,0 +1,208 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 2414
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 10
+	Country: United States ; Times: 125
+	Country: Madagascar ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 25
+	Date: 2019-07-08 ; Times: 73
+	Date: 2019-07-18 ; Times: 3
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-01 ; Times: 1
+	Date: 2019-07-16 ; Times: 10
+	Date: 2019-07-03 ; Times: 2
+	Date: 2019-07-11 ; Times: 6
+	Date: 2019-07-30 ; Times: 2
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-07 ; Times: 4
+	Date: 2019-07-06 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-20 ; Times: 6
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-23 ; Times: 5
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-10 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Wyonycteris" ; Times: 1
+	Query: "genus:Homo specificepithet:sapiens" ; Times: 1
+	Query: "genus:Tetonius specificepithet:sp" ; Times: 1
+	Query: "genus:Pronothodectes specificepithet:matthewi" ; Times: 1
+	Query: "genus:Acaremys specificepithet:sp." ; Times: 1
+	Query: "genus:Cantius specificepithet:mckennai" ; Times: 1
+	Query: "snakes and other reptiles" ; Times: 1
+	Query: "genus:Elphidotarsius specificepithet:sp." ; Times: 1
+	Query: "genus:Adocus" ; Times: 1
+	Query: "YPM 2255" ; Times: 1
+	Query: "genus:Allognathosuchus" ; Times: 1
+	Query: "genus:Compsemys specificepithet:victa" ; Times: 1
+	Query: "order:perissodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "catalognumber:017514 institutioncode:YPM" ; Times: 1
+	Query: "genus:Carpolestes specificepithet:simpsoni" ; Times: 1
+	Query: "genus:Arapahovius specificepithet:gazini" ; Times: 1
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 2
+	Query: "genus:Homo specificepithet:erectus" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "genus:Rhamphorhynchus" ; Times: 1
+	Query: "ypm 2021" ; Times: 1
+	Query: "genus:Trogolemur" ; Times: 1
+	Query: "genus:Pongo specificepithet:pygmaeus" ; Times: 1
+	Query: "genus:Cadurcotherium" ; Times: 1
+	Query: "AMNH 13329" ; Times: 3
+	Query: "genus:Homo specificepithet:neanderthalensis" ; Times: 1
+	Query: "genus:Tetonius specificepithet:homunculus" ; Times: 1
+	Query: "caiman;skull" ; Times: 2
+	Query: "YPM 13701" ; Times: 1
+	Query: "genus:Moeritherium specificepithet:sp." ; Times: 1
+	Query: "genus:Proconsul specificepithet:africanus" ; Times: 1
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "genus:Apterodon specificepithet:sp." ; Times: 2
+	Query: "genus:Machairodus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Shoshonius specificepithet:sp." ; Times: 1
+	Query: "genus:Tetonius specificepithet:matthewi" ; Times: 1
+	Query: "YPM-12004" ; Times: 1
+	Query: "YPM 000226" ; Times: 1
+	Query: "genus:Cantius specificepithet:sp." ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 2
+	Query: "genus:Brachychampsa specificepithet:montana" ; Times: 1
+	Query: "genus:Argillochelys" ; Times: 1
+	Query: "genus:Cantius specificepithet:trigonodus" ; Times: 1
+	Query: "class:amphibia county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Titanohyrax" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 2
+	Query: "genus:canis order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Dicynodon" ; Times: 1
+	Query: "genus:Epicyon" ; Times: 1
+	Query: "genus:Gomphotherium" ; Times: 1
+	Query: "genus:Scenopagus specificepithet:sp." ; Times: 1
+	Query: "genus:Cantius specificepithet:frugivorus" ; Times: 1
+	Query: "genus:Sciurus specificepithet:sp." ; Times: 1
+	Query: "genus:Limnopus" ; Times: 1
+	Query: "genus:Victoriapithecus specificepithet:macinnesi" ; Times: 1
+	Query: "genus:Gorilla specificepithet:gorilla" ; Times: 1
+	Query: "genus:Absarokius specificepithet:noctivagus" ; Times: 1
+	Query: "29221" ; Times: 1
+	Query: "genus:Adapis specificepithet:parisiensis" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:pearcei" ; Times: 1
+	Query: "Pteraspis" ; Times: 2
+	Query: "genus:Plastomenus" ; Times: 1
+	Query: "genus:Proconsul specificepithet:nyanzae" ; Times: 1
+	Query: "genus:Eilenodon" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "genus:Proconsul specificepithet:major" ; Times: 1
+	Query: "genus:Listriodon specificepithet:sp." ; Times: 1
+	Query: "order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Pronothodectes specificepithet:jepi" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 1
+	Query: "anteater skeleton" ; Times: 2
+	Query: "YPM 41020" ; Times: 3
+	Query: "59041" ; Times: 1
+	Query: "fieldnumber:2639" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "genus:Saghatherium specificepithet:sp." ; Times: 1
+	Query: "catalognumber:017161 institutioncode:YPM" ; Times: 2
+	Query: "J. T. Peterson" ; Times: 1
+	Query: "catalognumber:017146 institutioncode:YPM" ; Times: 2
+	Query: "28317" ; Times: 1
+	Query: "genus:Pondaungia" ; Times: 1
+	Query: "genus:Absarokius specificepithet:sp." ; Times: 1
+	Query: "genus:Proconsul specificepithet:heseloni" ; Times: 1
+	Query: "genus:Equus specificepithet:complicatus" ; Times: 1
+	Query: "genus:Megalohyrax specificepithet:sp." ; Times: 2
+	Query: "genus:Homo specificepithet:habilis" ; Times: 1
+	Query: "genus:Homo specificepithet:heidelbergensis" ; Times: 1
+	Query: "class:reptilia county:&#34;hot springs&#34; stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "genus:Diplodocus specificepithet:sp." ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "genus:Gilmoremys" ; Times: 1
+	Query: "genus:Megalosaurus specificepithet:bucklandii" ; Times: 1
+	Query: "Gorillas" ; Times: 1
+	Query: "genus:Carpolestes specificepithet:nigridens" ; Times: 1
+	Query: "genus:Conohyus specificepithet:sp." ; Times: 1
+	Query: "42-480" ; Times: 1
+	Query: "genus:Dendropithecus specificepithet:macinnesi" ; Times: 1
+	Query: "genus:Anemorhysis specificepithet:pattersoni" ; Times: 1
+	Query: "genus:smilodon order:carnivora class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Plagiomene specificepithet:sp." ; Times: 1
+	Query: "order:artiodactyla class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Tetonius specificepithet:sp." ; Times: 1
+	Query: "genus:Carpolestes specificepithet:dubius" ; Times: 1
+	Query: "olfactory" ; Times: 1
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "genus:Reithroparamys specificepithet:sp." ; Times: 1
+	Query: "genus:Prohylobates" ; Times: 1
+	Query: "genus:Absarokius specificepithet:metoecus" ; Times: 1
+	Query: "genus:Subhyracodon" ; Times: 1
+	Query: "genus:Equus specificepithet:sp." ; Times: 1
+	Query: "genus:Estesia specificepithet:mongoliensis" ; Times: 1
+	Query: "genus:Shoshonius specificepithet:cooperi" ; Times: 1
+	Query: "genus:Grallator specificepithet:sp." ; Times: 1
+	Query: "genus:Absarokius specificepithet:abbotti" ; Times: 1
+	Query: "genus:Aepyornis" ; Times: 1
+	Query: "Osteostraci" ; Times: 2
+	Query: "genus:Necrolemur specificepithet:antiquus" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "genus:Tyrannosaurus isfossil:1" ; Times: 2
+	Query: "genus:Anemorhysis specificepithet:sp." ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 10
+	Query: "genus:Azibius specificepithet:trerki" ; Times: 1
+	Query: "genus:Arctotherium" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 985 download events in this period)
+Total number of records downloaded: 503
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-25 ; Times: 7
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "specificepithet:hudsonius genus:Zapus" ; Times: 1
+	Query: "Branta canadensis" ; Times: 1
+	Query: "&#34;Branta canadensis&#34; vntype:specimen specificepithet:canadensis genus:Branta AND (NOT maxima NOT taverneri NOT taverni NOT moffitti NOT leucopareia NOT parvipes NOT minima NOT occidentalis NOT &#34;canadensis canadensis&#34; NOT hutchinsii NOT fulva NOT interior NOT hutchinsi NOT belcheri NOT teverneri NOT asiatica) year &gt;= 1000 year &lt;= 1920" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1941 year &lt;= 1950" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1976 year &lt;= 1980" ; Times: 2
+	Query: "Protopterus" ; Times: 3
+	Query: "Macroclemys" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+
+
+End of report.
