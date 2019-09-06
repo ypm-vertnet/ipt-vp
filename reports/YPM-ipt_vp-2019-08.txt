@@ -1,0 +1,158 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 1385
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 69
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 6
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-08 ; Times: 26
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-04 ; Times: 5
+	Date: 2019-08-05 ; Times: 5
+	Date: 2019-08-06 ; Times: 2
+	Date: 2019-08-29 ; Times: 7
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 3
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 3
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-16 ; Times: 2
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Conohyus specificepithet:sp." ; Times: 1
+	Query: "genus:Listriodon specificepithet:sp." ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "specificepithet:browni class:mammalia (browni)" ; Times: 2
+	Query: "vntype:specimen genus:Tympanuchus family:Phasianidae order:Galliformes isfossil:1" ; Times: 1
+	Query: "class:Reptilia or Amphibia" ; Times: 1
+	Query: "genus:Reithroparamys  specificepithet:delicatissimus " ; Times: 1
+	Query: "pseudalopex culpaeus (ecuador)" ; Times: 4
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 2
+	Query: "Tracheophyta" ; Times: 1
+	Query: "Hipparion primigenium" ; Times: 1
+	Query: "40513" ; Times: 1
+	Query: "genus:Acaremys specificepithet:sp." ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "(seymouria)" ; Times: 1
+	Query: "javelina" ; Times: 2
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "genus:Elphidotarsius specificepithet:sp." ; Times: 1
+	Query: "Tragoportax" ; Times: 1
+	Query: "reptil" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "genus:Bootherium specificepithet:bombifrons" ; Times: 1
+	Query: "genus:Palenochtha specificepithet:minor" ; Times: 1
+	Query: "genus:Hyopsodus specificepithet:sp." ; Times: 1
+	Query: "genus:Erethizon stateprovince:&#34;Maryland&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "dusicyon culpaeus (ecuador)" ; Times: 2
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "genus:Scenopagus specificepithet:sp." ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "56339" ; Times: 1
+	Query: "genus:Megalosaurus specificepithet:bucklandii" ; Times: 1
+	Query: "genus:Reithroparamys specificepithet:sp." ; Times: 1
+	Query: "genus:Platychoerops specificepithet:daubrei" ; Times: 1
+	Query: "genus:Dendropithecus specificepithet:macinnesi" ; Times: 1
+	Query: "class:Mammalia fieldnumber:1380" ; Times: 1
+	Query: "genus:Edmontosaurus specificepithet:annectens" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "genus:Plagiomene specificepithet:sp." ; Times: 1
+	Query: "genus:Grallator specificepithet:sp." ; Times: 1
+	Query: "Apatosaurus" ; Times: 1
+	Query: "eremita" ; Times: 2
+	Query: "seymouria" ; Times: 4
+	Query: "egg nebraska" ; Times: 1
+	Query: "39641" ; Times: 1
+	Query: "genus:Megalohyrax specificepithet:sp." ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "Bootherium" ; Times: 3
+	Query: "genus:Nothocyon specificepithet:lemur" ; Times: 1
+	Query: "specificepithet:laniarius genus:Sarcophilus" ; Times: 1
+	Query: "(mammuthus hair)" ; Times: 1
+	Query: "Zoological Institute RAS" ; Times: 1
+	Query: "genus:Diplodocus specificepithet:sp." ; Times: 1
+	Query: "genus:Moeritherium specificepithet:sp." ; Times: 1
+	Query: "genus:Meleagris stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "28575" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 3
+	Query: "genus:Prosciurus  specificepithet:relictus" ; Times: 1
+	Query: "genus:Apterodon specificepithet:sp." ; Times: 1
+	Query: "Javelina" ; Times: 1
+	Query: "Latonia" ; Times: 1
+	Query: "teratornis" ; Times: 1
+	Query: "sthenurus" ; Times: 1
+	Query: "Chelicerata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1034 download events in this period)
+Total number of records downloaded: 59
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Erethizon stateprovince:&#34;Maryland&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Santander" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "pseudalopex culpaeus (ecuador)" ; Times: 1
+	Query: "genus:Meleagris stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "seymouria isfossil:1" ; Times: 1
+	Query: "seymouria" ; Times: 1
+	Query: "dusicyon culpaeus (ecuador)" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "ticholeptus" ; Times: 1
+	Query: "merychyus" ; Times: 1
+
+
+End of report.
