@@ -1,0 +1,119 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 537
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 50
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Japan ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 2
+	Date: 2019-09-23 ; Times: 6
+	Date: 2019-09-17 ; Times: 13
+	Date: 2019-09-10 ; Times: 2
+	Date: 2019-09-11 ; Times: 5
+	Date: 2019-09-12 ; Times: 3
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-16 ; Times: 3
+	Date: 2019-09-06 ; Times: 13
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-25 ; Times: 3
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sharks" ; Times: 2
+	Query: "Homo sapiens" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "captorhinus" ; Times: 1
+	Query: "smilodon populator" ; Times: 1
+	Query: "equid" ; Times: 1
+	Query: "Crocodylomorph" ; Times: 1
+	Query: "class:Reptilia county:&#34;Big Horn&#34; stateprovince:&#34;Montana&#34;" ; Times: 4
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 3
+	Query: "Xenicus" ; Times: 1
+	Query: "platyurus institutioncode:ypm" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "Eonessa anaticula" ; Times: 1
+	Query: "USNM 30534" ; Times: 2
+	Query: "Anatalavis rex" ; Times: 1
+	Query: "diplodocus" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 10
+	Query: "41149" ; Times: 1
+	Query: "Proterochampsa" ; Times: 1
+	Query: "YPM 35210" ; Times: 2
+	Query: "Francis 1912" ; Times: 1
+	Query: "YPM 11707" ; Times: 2
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 5
+	Query: "Bootherium" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "family:dugongidae stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Aves Pyrenees" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "archaeopteryx" ; Times: 1
+	Query: "genus:Triceratops isfossil:1" ; Times: 2
+	Query: "47798" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "class:Aves country:&#34;new zealand&#34; institutioncode:YPM" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "bootherium" ; Times: 1
+	Query: "family:CASTORIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "2909 ypm" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "class:Reptilia county:&#34;Slope&#34; stateprovince:&#34;North Dakota&#34; AND (NOT PBDB NOT UCMP )" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1073 download events in this period)
+Total number of records downloaded: 1053
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:cetacea class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Amphibia Nebraska" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "Amphibia Dakota" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
