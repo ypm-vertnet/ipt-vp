@@ -1,0 +1,148 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 2679
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: United States ; Times: 86
+	Country: Netherlands ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 2
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-14 ; Times: 10
+	Date: 2020-01-15 ; Times: 10
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-24 ; Times: 10
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-31 ; Times: 25
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-30 ; Times: 19
+	Date: 2020-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "54986" ; Times: 2
+	Query: "YPM 8466" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "ypm 9855" ; Times: 1
+	Query: "family:Equidae stateprovince:&#34;South Carolina&#34; institutioncode:YPM" ; Times: 1
+	Query: "family:Tapiridae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Ailuropoda melanoleuca" ; Times: 1
+	Query: "Oligokyphus" ; Times: 2
+	Query: "Diademodon" ; Times: 1
+	Query: "holotype class:aves continent:africa hastypestatus:1" ; Times: 2
+	Query: "family:Camelidae stateprovince:&#34;South Carolina&#34; institutioncode:YPM" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "62878" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "family:Tapiridae stateprovince:&#34;South Carolina&#34; institutioncode:YPM" ; Times: 1
+	Query: "order:Proboscidea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "349456" ; Times: 1
+	Query: "Leptosomus skeleton" ; Times: 6
+	Query: "county:&#34;Delaware County&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "pangolin" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "genus:Tapirus stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "stateprovince:&#34;utah&#34; (olson)" ; Times: 1
+	Query: "asian elephant" ; Times: 1
+	Query: "genus:Diademodon" ; Times: 2
+	Query: "american crocodile" ; Times: 1
+	Query: "012996" ; Times: 1
+	Query: "YPM 27154" ; Times: 2
+	Query: "genus:Carcharhinus institutioncode:YPM" ; Times: 1
+	Query: "egg new zealand ypm" ; Times: 1
+	Query: "homo neanderthalensis" ; Times: 2
+	Query: "family:Equidae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Bubalus" ; Times: 1
+	Query: "family:Camelidae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "347411" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 3
+	Query: "dermoptera AND (north america)" ; Times: 1
+	Query: "brevissima" ; Times: 2
+	Query: "ypm 18907" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 4
+	Query: "&#34;Ailuropoda melanoleuca&#34;" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 1
+	Query: "equine" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "Prolacerta" ; Times: 1
+	Query: "Morenosaurus" ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 30
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1584 download events in this period)
+Total number of records downloaded: 14324
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 42
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 4
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-20 ; Times: 7
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-26 ; Times: 3
+	Date: 2020-01-31 ; Times: 10
+	Date: 2020-01-30 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "holotype class:aves" ; Times: 1
+	Query: "family:Canidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "kangaroo mice" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "family:Otariidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "family:Bovidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(DERMOPTERA)" ; Times: 3
+	Query: "dermoptera" ; Times: 16
+	Query: "family:Castoridae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Oligokyphus" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 2
+	Query: "order:dermoptera" ; Times: 1
+	Query: "Dermoptera" ; Times: 6
+	Query: "specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "family:Cervidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+
+
+End of report.
