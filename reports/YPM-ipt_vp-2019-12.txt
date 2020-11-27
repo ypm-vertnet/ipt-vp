@@ -1,0 +1,88 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 275
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 31
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-04 ; Times: 4
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-18 ; Times: 4
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-09 ; Times: 4
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-06 ; Times: 3
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "55084" ; Times: 1
+	Query: "James Bond" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "order:primates fieldnumber:62" ; Times: 1
+	Query: "020195" ; Times: 1
+	Query: "hutia" ; Times: 1
+	Query: "extended wings" ; Times: 4
+	Query: "SP 3030" ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "59361" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "55764" ; Times: 1
+	Query: "genus:Allosaurus" ; Times: 1
+	Query: "ANSP-4319" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "hylonomus lyelli" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "YPM 020195" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 596 download events in this period)
+Total number of records downloaded: 248
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "genus:Condylura" ; Times: 2
+	Query: "marmota monax" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "Arctonyx" ; Times: 1
+
+
+End of report.
