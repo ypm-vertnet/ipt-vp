@@ -1,0 +1,166 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 236
+Number of records retrieved in searches: 9551
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 223
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-04 ; Times: 23
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-03 ; Times: 57
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 5
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 6
+	Date: 2020-02-06 ; Times: 12
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 35
+	Date: 2020-02-01 ; Times: 44
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-20 ; Times: 6
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-02 ; Times: 18
+	Date: 2020-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "H 54414" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "anthropoidea" ; Times: 1
+	Query: "burma institutioncode:YPM" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "class:mammalia county:&#34;kern&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "YPM 22270" ; Times: 1
+	Query: "ypm 15679" ; Times: 1
+	Query: "class:mammalia county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "dog years" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "hominoidea" ; Times: 1
+	Query: "red panda" ; Times: 2
+	Query: "Cheetahs" ; Times: 1
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "bison atlas" ; Times: 1
+	Query: "(Ailuropoda melanoleuca)" ; Times: 1
+	Query: "ORDER DERMOPTERA" ; Times: 2
+	Query: "genus:Cynognathus" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "loxodon" ; Times: 1
+	Query: "genus:cercopithecus institutioncode:YPM" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "LEMUROIDEA" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "36877 Mammals" ; Times: 1
+	Query: "ypm 015679" ; Times: 1
+	Query: "country:&#34;northern ireland&#34;" ; Times: 4
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "tenontosaurus" ; Times: 6
+	Query: "Pleurosternon" ; Times: 1
+	Query: "Porcupines" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Geographical distribution" ; Times: 3
+	Query: "14846" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 2
+	Query: "Nimravides" ; Times: 1
+	Query: "(dermoptera)" ; Times: 7
+	Query: "28572" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "ypm 015676" ; Times: 1
+	Query: "vntype:specimen specificepithet:romeri class:amphibia" ; Times: 1
+	Query: "Harebell" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "myanmar institutioncode:YPM" ; Times: 1
+	Query: "Dermoptera" ; Times: 61
+	Query: "PHYTOSAUR" ; Times: 1
+	Query: "Sea turtles" ; Times: 2
+	Query: "porcupines" ; Times: 1
+	Query: "(armadillos)" ; Times: 1
+	Query: "MBR 2165" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "genus:Dimetrodon" ; Times: 1
+	Query: "dermoptera" ; Times: 93
+	Query: "20991" ; Times: 1
+	Query: "Pythons" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 85 (out of 1023 download events in this period)
+Total number of records downloaded: 36697
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 80
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-02 ; Times: 11
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-05 ; Times: 13
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-03 ; Times: 16
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-06 ; Times: 15
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-04 ; Times: 10
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cavia" ; Times: 1
+	Query: "Nimravides" ; Times: 1
+	Query: "order:dermoptera" ; Times: 3
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "vntype:specimen order:Primates family:Lorisidae" ; Times: 1
+	Query: "Grus canadensis" ; Times: 1
+	Query: "(dermoptera)" ; Times: 5
+	Query: "Taricha" ; Times: 1
+	Query: "Dermoptera" ; Times: 26
+	Query: "DERMOPTERA" ; Times: 2
+	Query: "el salvador" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "platypus" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "dermoptera" ; Times: 29
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
