@@ -1,0 +1,152 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 552
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 53
+	Country: Australia ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 15
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 12
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 7
+	Date: 2019-10-08 ; Times: 15
+	Date: 2019-10-21 ; Times: 4
+	Date: 2019-10-27 ; Times: 4
+	Date: 2019-10-26 ; Times: 5
+	Date: 2019-10-25 ; Times: 2
+	Date: 2019-10-24 ; Times: 5
+	Date: 2019-10-01 ; Times: 2
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 7
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-29 ; Times: 5
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-12 ; Times: 4
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 5
+	Date: 2019-10-30 ; Times: 3
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 3
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-15 ; Times: 2
+	Date: 2019-10-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "hylonomus lyelli" ; Times: 6
+	Query: "SP 10671" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "SP 10654" ; Times: 2
+	Query: "32887" ; Times: 1
+	Query: "Loxodon" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 5
+	Query: "54212" ; Times: 1
+	Query: "ypm 51811" ; Times: 1
+	Query: "catalognumber:009655 institutioncode:YPM" ; Times: 1
+	Query: "limnophis" ; Times: 1
+	Query: "AMNH 33896" ; Times: 1
+	Query: "shorebirds" ; Times: 1
+	Query: "genus:Vulpes vulpes stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Lauraceae" ; Times: 1
+	Query: "pythons" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "catalognumber:016896 institutioncode:YPM" ; Times: 2
+	Query: "Pangolin" ; Times: 1
+	Query: "diplocynodon" ; Times: 1
+	Query: "catalognumber:014859 institutioncode:YPM" ; Times: 3
+	Query: "44016" ; Times: 1
+	Query: "USNM 30534" ; Times: 1
+	Query: "raptors" ; Times: 1
+	Query: "mazon creek" ; Times: 2
+	Query: "trilophosaurus" ; Times: 1
+	Query: "Linton AND 1912" ; Times: 1
+	Query: "Ziphius connecticut" ; Times: 1
+	Query: "SP 10784" ; Times: 1
+	Query: "catalognumber:016897 institutioncode:YPM" ; Times: 2
+	Query: "plantae" ; Times: 1
+	Query: "SP 10805" ; Times: 1
+	Query: "ypm 832" ; Times: 1
+	Query: "arvicola amphibius country:&#34;Italy&#34;" ; Times: 1
+	Query: "catalognumber:005215 institutioncode:YPM" ; Times: 2
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 2
+	Query: "32998" ; Times: 1
+	Query: "SP 11701" ; Times: 1
+	Query: "genus:Galeorhinus class:Chondrichthyes stateprovince:California" ; Times: 2
+	Query: "SP 9397" ; Times: 1
+	Query: "bird phylogeny" ; Times: 2
+	Query: "acronyms" ; Times: 1
+	Query: "specificepithet:bombifrons stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "ypm reptilia maryland" ; Times: 1
+	Query: "genus:Mammut stateprovince:&#34;Georgia&#34;" ; Times: 3
+	Query: "52049" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "catalognumber:014797 institutioncode:YPM" ; Times: 2
+	Query: "genus:Martes institutioncode:YPM" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "catalognumber:024628 institutioncode:YPM" ; Times: 1
+	Query: "Glyphis glyphis" ; Times: 1
+	Query: "ypm 38002" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "SP 11595" ; Times: 1
+	Query: "ypm 50902" ; Times: 1
+	Query: "catalognumber:014985 institutioncode:YPM" ; Times: 6
+	Query: "tanystropheus" ; Times: 8
+	Query: "invasive species" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "Bootherium" ; Times: 2
+	Query: "ypm 46776" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1308 download events in this period)
+Total number of records downloaded: 46
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 2
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "Chelonoidis" ; Times: 1
+	Query: "genus:Gobius" ; Times: 1
+	Query: "hylonomus lyelli" ; Times: 2
+	Query: "platypus" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Huila&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "white tailed deer" ; Times: 1
+	Query: "Canis lupus Linnaeus" ; Times: 1
+	Query: "genus:Galeorhinus stateprovince:California" ; Times: 1
+	Query: "genus:Vulpes vulpes stateprovince:&#34;Nebraska&#34;" ; Times: 1
+
+
+End of report.
