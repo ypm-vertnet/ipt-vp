@@ -1,0 +1,145 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 408
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: United States ; Times: 70
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 6
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-21 ; Times: 5
+	Date: 2019-11-22 ; Times: 6
+	Date: 2019-11-19 ; Times: 5
+	Date: 2019-11-18 ; Times: 4
+	Date: 2019-11-08 ; Times: 4
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-06 ; Times: 19
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 9
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-11 ; Times: 4
+	Date: 2019-11-03 ; Times: 9
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 14
+	Date: 2019-11-14 ; Times: 7
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "54056" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "Giant Panda" ; Times: 1
+	Query: "52292" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "53460" ; Times: 2
+	Query: "58676" ; Times: 1
+	Query: "Elephant Maximus" ; Times: 3
+	Query: "16051" ; Times: 1
+	Query: "homo sapiens holotype" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "institutioncode:YPM Chrysemys" ; Times: 3
+	Query: "20532" ; Times: 1
+	Query: "D. McLeod" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "Leon holotype" ; Times: 3
+	Query: "54721" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "gbifdatasetid:9643f840-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "python india" ; Times: 1
+	Query: "Red Panda" ; Times: 1
+	Query: "sivapithecus" ; Times: 1
+	Query: "bird body size" ; Times: 1
+	Query: "snakes india" ; Times: 1
+	Query: "skeletons birds" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "Elephas maximus" ; Times: 4
+	Query: "Papio cynocephalus" ; Times: 2
+	Query: "18819" ; Times: 2
+	Query: "55422" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "leon holotype" ; Times: 1
+	Query: "352031" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "352034" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "ctenochasma" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "genus:Dasypus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "Stygiochelys" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 3
+	Query: "19720" ; Times: 4
+	Query: "genus:Tapirus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "Eodelphis" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:siren year &lt;= 1955" ; Times: 1
+	Query: "genus:elaphe specificepithet:guttata institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "vntype:specimen genus:Andrias" ; Times: 1
+	Query: "genus:micrurus specificepithet:fulvius institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "cetacean vertebrae" ; Times: 2
+	Query: "fieldnumber:4331" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "18905" ; Times: 4
+	Query: "18906" ; Times: 1
+	Query: "45051" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1367 download events in this period)
+Total number of records downloaded: 16
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 2
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-08 ; Times: 3
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Red Panda" ; Times: 2
+	Query: "genus:farancia specificepithet:abacura institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "genus:elaphe specificepithet:guttata institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "genus:micrurus specificepithet:fulvius institutioncode:nmu OR osum OR os OR pbdb OR pmns OR omnh OR sbmnh OR kstc OR sio OR slu OR ttrs OR tcwc OR tnhc OR emu OR tu OR ua OR uaz OR uafmc OR ucla OR ucmp OR ucm OR uconn OR sui OR unr OR uta OR utep OR uwfc OR uwymv OR vmnh OR wfvz OR wnmu OR ypm" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "Stygiochelys" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34; year &lt;= 1960" ; Times: 1
+	Query: "Eodelphis" ; Times: 1
+
+
+End of report.
