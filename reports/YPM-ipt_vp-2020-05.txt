@@ -1,0 +1,181 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 426
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 75
+	Country: Canada ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 7
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 5
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 6
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 7
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 3
+	Date: 2020-05-15 ; Times: 7
+	Date: 2020-05-16 ; Times: 12
+	Date: 2020-05-17 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "51803" ; Times: 1
+	Query: "36580" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "Mononykus olecranus" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "354208" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Megaladapis" ; Times: 1
+	Query: "409296" ; Times: 1
+	Query: "bone valley YPM" ; Times: 1
+	Query: "Caudipteryx" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "genus:Borealosuchus (Paleogene OR Paleocene)" ; Times: 4
+	Query: "genus:Baena (Maastrichtian)" ; Times: 1
+	Query: "gbifdatasetid:9643f840-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "350648" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "reptil" ; Times: 1
+	Query: "351857" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "Majungasaurus" ; Times: 1
+	Query: "Therizinosaurus" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "350995" ; Times: 1
+	Query: "genus:Stygiochelys (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Hutchemys (Paleocene)" ; Times: 2
+	Query: "bone valley institutioncode:ypm" ; Times: 1
+	Query: "genus:Lisserpeton (Paleocene)" ; Times: 1
+	Query: "351930" ; Times: 1
+	Query: "genus:Carcinodon (Paleocene)" ; Times: 1
+	Query: "genus:Baena (Paleocene)" ; Times: 2
+	Query: "348140" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "350946" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "471180" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "genus:Cimolopteryx (Cretaceous)" ; Times: 1
+	Query: "genus:Hutchemys (Paleogene OR Paleocene)" ; Times: 1
+	Query: "355198" ; Times: 1
+	Query: "genus:Leidyosuchus (Paleocene)" ; Times: 1
+	Query: "347969" ; Times: 1
+	Query: "351835" ; Times: 1
+	Query: "genus:Lisserpeton (Paleogene OR Paleocene)" ; Times: 1
+	Query: "471615" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "class:mammalia county:&#34;frontier&#34; stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "352002" ; Times: 1
+	Query: "Ornithomimus" ; Times: 1
+	Query: "ypm 24748" ; Times: 1
+	Query: "ypm 24749" ; Times: 2
+	Query: "genus:Borealosuchus (Paleocene)" ; Times: 2
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "deinocheirus" ; Times: 1
+	Query: "Dimetrodon limbatus" ; Times: 2
+	Query: "Acrocanthosaurus" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "genus:Dimetrodon" ; Times: 1
+	Query: "genus:Stygiochelys (Paleocene)" ; Times: 1
+	Query: "Utahraptor" ; Times: 2
+	Query: "44752" ; Times: 1
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+	Query: "Pentaceratops" ; Times: 2
+	Query: "30246" ; Times: 1
+	Query: "genus:Ptilodus (Paleogene OR Paleocene)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1106 download events in this period)
+Total number of records downloaded: 886
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 26
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-16 ; Times: 4
+	Date: 2020-05-17 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Rodentia stateprovince:Colorado" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "genus:Ptilodus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "genus:Carcinodon (Paleocene)" ; Times: 1
+	Query: "order:Rodentia stateprovince:New Mexico" ; Times: 1
+	Query: "genus:Borealosuchus (Paleogene OR Paleocene)" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "family:Felidae hastypestatus:1 isfossil:1" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "genus:Baena (Maastrichtian)" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "genus:Hutchemys (Paleocene)" ; Times: 1
+	Query: "genus:Lisserpeton (Paleocene)" ; Times: 1
+	Query: "genus:Gulo" ; Times: 1
+	Query: "genus:Borealosuchus (Paleocene)" ; Times: 1
+	Query: "genus:Cimolopteryx (Cretaceous)" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "genus:Stygiochelys (Paleocene)" ; Times: 1
+	Query: "genus:Leidyosuchus (Paleocene)" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Lisserpeton (Paleogene OR Paleocene)" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "genus:Loxolophus (Paleocene)" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "mollusca" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Martes" ; Times: 2
+	Query: "genus:Hutchemys (Paleogene OR Paleocene)" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "genus:Oxyclaenus (Paleocene)" ; Times: 1
+
+
+End of report.
