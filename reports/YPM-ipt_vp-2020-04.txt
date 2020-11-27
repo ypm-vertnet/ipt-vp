@@ -1,0 +1,169 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 90
+Number of records retrieved in searches: 806
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 47
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 30
+	Country: Ecuador ; Times: 1
+	Country: Taiwan ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-19 ; Times: 4
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 1
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 3
+	Date: 2020-04-14 ; Times: 5
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-05 ; Times: 16
+	Date: 2020-04-06 ; Times: 6
+	Date: 2020-04-07 ; Times: 13
+	Date: 2020-04-01 ; Times: 4
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-21 ; Times: 10
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "catalognumber:017142 institutioncode:YPM" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "USNM 256616" ; Times: 2
+	Query: "34276" ; Times: 1
+	Query: "Coelophysis bauri" ; Times: 2
+	Query: "40578" ; Times: 2
+	Query: "family:Mammutidae stateprovince:&#34;California&#34; basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM) institutioncode:YPM" ; Times: 1
+	Query: "36220" ; Times: 1
+	Query: "22916" ; Times: 1
+	Query: "ANSP 6242" ; Times: 2
+	Query: "(49095)" ; Times: 1
+	Query: "red panda" ; Times: 1
+	Query: "dermatemys" ; Times: 2
+	Query: "Palaeogale" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "Tinca tinca" ; Times: 7
+	Query: "catalognumber:017046 institutioncode:YPM" ; Times: 1
+	Query: "albertosaurus" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "catalognumber:017161 institutioncode:YPM" ; Times: 2
+	Query: "catalognumber:017146 institutioncode:YPM" ; Times: 4
+	Query: "G.M. Henry vntype:specimen" ; Times: 1
+	Query: "bmnh 1901" ; Times: 1
+	Query: "catalognumber:017514 institutioncode:YPM" ; Times: 6
+	Query: "Homo sapiens" ; Times: 12
+	Query: "41044" ; Times: 2
+	Query: "giant panda" ; Times: 1
+	Query: "G.M. Henry" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "class:Reptilia county:&#34;Charleston&#34; stateprovince:&#34;South Carolina&#34; AND (NOT NCSM NOT PSM NOT MCZ NOT USNM)" ; Times: 1
+	Query: "Papio cynocephalus" ; Times: 4
+	Query: "36314" ; Times: 1
+	Query: "(Mesozoic) institutioncode:YPM" ; Times: 2
+	Query: "M. reevesi" ; Times: 3
+	Query: "Equus asinus" ; Times: 2
+	Query: "W. J. Irwin" ; Times: 1
+	Query: "(Cenozoic) institutioncode:YPM" ; Times: 1
+	Query: "amnh 17125" ; Times: 1
+	Query: "family:erethizontidae institutioncode:YPM" ; Times: 2
+	Query: "56798" ; Times: 1
+	Query: "(Cenozoic Mesozoic ) institutioncode:YPM" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1171 download events in this period)
+Total number of records downloaded: 8390
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 36
+	Country: Netherlands ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-18 ; Times: 3
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-23 ; Times: 6
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-21 ; Times: 3
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 14
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison antiquus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;California&#34; country:&#34;U.S.A&#34; hastypestatus:1" ; Times: 1
+	Query: "mud turtle" ; Times: 1
+	Query: "smilodon fatalis" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "red panda" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "vntype:specimen family:Thryonomyidae" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen family:Echimyidae" ; Times: 1
+	Query: "vntype:specimen (Antarctica) isfossil:1" ; Times: 1
+	Query: "vntype:specimen family:Equidae" ; Times: 1
+	Query: "vntype:specimen family:Caviidae" ; Times: 1
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "vntype:specimen family:Otariidae" ; Times: 1
+	Query: "vntype:specimen family:Myoxidae" ; Times: 1
+	Query: "vntype:specimen family:Cynocephalidae" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae" ; Times: 1
+	Query: "vntype:specimen family:Lemuridae" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "class:Bivalvia basisofrecord:FossilSpecimen" ; Times: 1
+	Query: "Dermoptera" ; Times: 1
+	Query: "vntype:specimen family:Soricidae stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "genus:Gulo order:Carnivora" ; Times: 1
+	Query: "vntype:specimen family:Orycteropodidae" ; Times: 1
+	Query: "class:Gastropoda" ; Times: 1
+	Query: "vntype:specimen genus:Scalopus" ; Times: 1
+	Query: "basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "vntype:specimen order:Lagomorpha stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "vntype:specimen order:Carnivora stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "vntype:specimen family:Macroscelididae" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 2
+	Query: "vntype:specimen family:Procaviidae" ; Times: 1
+
+
+End of report.
