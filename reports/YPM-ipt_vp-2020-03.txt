@@ -1,0 +1,178 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 348
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 74
+	Country: Australia ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 17
+	Date: 2020-03-02 ; Times: 6
+	Date: 2020-03-18 ; Times: 14
+	Date: 2020-03-19 ; Times: 4
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-15 ; Times: 2
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-27 ; Times: 4
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-25 ; Times: 4
+	Date: 2020-03-24 ; Times: 4
+	Date: 2020-03-23 ; Times: 3
+	Date: 2020-03-22 ; Times: 10
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 4
+	Date: 2020-03-04 ; Times: 6
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "eothyris" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carbon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "13023 institutioncode:YPM" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "class:Reptilia county:&#34;Converse&#34; stateprovince:&#34;Wyoming&#34; AND (NOT PDBD)" ; Times: 2
+	Query: "(11044)" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "genus:Alligator class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "genus:Ophiacodon" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "349286" ; Times: 1
+	Query: "349287" ; Times: 1
+	Query: "eremita" ; Times: 1
+	Query: "47738" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "genus:Carphophis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Clidastes mississippi" ; Times: 1
+	Query: "distribucion" ; Times: 1
+	Query: "Archaeopteryx lithographica" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "limnophis" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "484185" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "349291" ; Times: 1
+	Query: "class:Reptilia county:&#34;Stark&#34; stateprovince:&#34;North Dakota&#34;" ; Times: 1
+	Query: "red panda" ; Times: 1
+	Query: "(042489)" ; Times: 2
+	Query: "50807" ; Times: 1
+	Query: "539141" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "BMNH 1938" ; Times: 1
+	Query: "South Sentinel" ; Times: 2
+	Query: "58767" ; Times: 1
+	Query: "class:Reptilia county:&#34;York&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "equine" ; Times: 1
+	Query: "Teratornis" ; Times: 2
+	Query: "21297" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "BMNH 1920" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lancaster&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Proeutatus" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "38340 institutioncode:YPM" ; Times: 1
+	Query: "Mosasaurus mississippi" ; Times: 2
+	Query: "B-10458" ; Times: 1
+	Query: "Squalicorax" ; Times: 1
+	Query: "Corynorhinus alleganiensis" ; Times: 1
+	Query: "(041198)" ; Times: 1
+	Query: "Archaeopteryx lithographica isfossil:1" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "539122" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "54500 institutioncode:YPM" ; Times: 1
+	Query: "class:Reptilia county:&#34;Fallon&#34; stateprovince:&#34;Montana&#34;" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "Icaronycteris index" ; Times: 2
+	Query: "bakewelli" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "latonia" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "ornithomimosauria" ; Times: 1
+	Query: "class:Reptilia county:&#34;Sheridan&#34; stateprovince:&#34;Kansas&#34; AND (NOT PDBD)" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "13715" ; Times: 1
+	Query: "family:Elephantidae skull" ; Times: 2
+	Query: "(53280)" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "AMNH 143788" ; Times: 1
+	Query: "class:Reptilia county:&#34;Carter&#34; stateprovince:&#34;Montana&#34;" ; Times: 2
+	Query: "Phasmatonycteris phiomensis" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "24177" ; Times: 1
+	Query: "Philisis sphingis" ; Times: 1
+	Query: "Indriidae" ; Times: 1
+	Query: "57155" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 853 download events in this period)
+Total number of records downloaded: 136
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 2
+	Country: United States ; Times: 12
+	Country: Spain ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gopherus" ; Times: 1
+	Query: "specificepithet:guttata genus:Elaphe" ; Times: 1
+	Query: "the great lakes" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "class:Aves continent:Africa institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "american alligator" ; Times: 1
+	Query: "genus:Drymarchon" ; Times: 2
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:Alligator country:&#34;USA&#34;" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "Xenosaurus" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma" ; Times: 1
+
+
+End of report.
