@@ -1,0 +1,167 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 294
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: United States ; Times: 41
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 7
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Ireland ; Times: 3
+	Country: Japan ; Times: 3
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-18 ; Times: 8
+	Date: 2020-08-06 ; Times: 6
+	Date: 2020-08-12 ; Times: 5
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-01 ; Times: 2
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-03 ; Times: 7
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-24 ; Times: 6
+	Date: 2020-08-25 ; Times: 3
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Elephantidae skull" ; Times: 4
+	Query: "pine marten" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "Exostinus" ; Times: 1
+	Query: "global distribution" ; Times: 1
+	Query: "genus:Edmontonia" ; Times: 2
+	Query: "red panda" ; Times: 2
+	Query: "R 52046" ; Times: 1
+	Query: "mammuthus primigenius" ; Times: 3
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:saurornithoides" ; Times: 1
+	Query: "genus:Stenonychosaurus" ; Times: 1
+	Query: "ANSP-395" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 2
+	Query: "Papio cynocephalus" ; Times: 1
+	Query: "Gall Lacm" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "velociraptor" ; Times: 1
+	Query: "elephant shrews" ; Times: 7
+	Query: "Pongo pygmaeus" ; Times: 1
+	Query: "genus:Coniophis" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "james bond" ; Times: 1
+	Query: "Palaeoxantusia" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "M. reevesi" ; Times: 1
+	Query: "Proxestops" ; Times: 1
+	Query: "deinosuchus" ; Times: 1
+	Query: "Mammals Bolivia Andes" ; Times: 1
+	Query: "14370" ; Times: 1
+	Query: "Raptors" ; Times: 3
+	Query: "45388" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "tarsier" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "James L. Dobie" ; Times: 1
+	Query: "fossa" ; Times: 1
+	Query: "Oligodontosaurus" ; Times: 1
+	Query: "008417" ; Times: 2
+	Query: "Caudiverbera caudiverbera" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 756 download events in this period)
+Total number of records downloaded: 4035
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: United Kingdom ; Times: 1
+	Country: Bolivia ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 4
+	Date: 2020-08-03 ; Times: 7
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-11 ; Times: 1
+	Date: 2020-08-10 ; Times: 3
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-27 ; Times: 3
+	Date: 2020-08-24 ; Times: 5
+	Date: 2020-08-26 ; Times: 2
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "vntype:specimen class:Mammalia stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "pine marten" ; Times: 1
+	Query: "Canis sp" ; Times: 1
+	Query: "genus:Chamops" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 2
+	Query: "Exostinus" ; Times: 1
+	Query: "genus:Edmontonia" ; Times: 1
+	Query: "Mammals Bolivia Tarija" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "red panda" ; Times: 1
+	Query: "Mammals Bolivia Oruro" ; Times: 1
+	Query: "genus:saurornithoides" ; Times: 1
+	Query: "genus:Stenonychosaurus" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "order:Testudines institutioncode:YPM" ; Times: 1
+	Query: "Mammals Bolivia La PAz" ; Times: 1
+	Query: "snapping turtle" ; Times: 1
+	Query: "genus:Coniophis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "mammuthus primigenius" ; Times: 1
+	Query: "Palaeoxantusia" ; Times: 1
+	Query: "Ochotona" ; Times: 1
+	Query: "Proxestops" ; Times: 1
+	Query: "class:Mammalia county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "baculum" ; Times: 1
+	Query: "genus:Odaxosaurus" ; Times: 1
+	Query: "Leidyosuchus" ; Times: 1
+	Query: "genus:Pongo" ; Times: 1
+	Query: "Gray wolf" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "specificepithet:pygmaeus genus:pongo" ; Times: 2
+	Query: "equinus" ; Times: 1
+	Query: "Oligodontosaurus" ; Times: 1
+	Query: "Borealosuchus" ; Times: 1
+	Query: "fossa" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:ziphius" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
