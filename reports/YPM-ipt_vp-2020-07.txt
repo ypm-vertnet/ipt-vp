@@ -1,0 +1,182 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 486
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 46
+	Country: Ireland ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 3
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 9
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-25 ; Times: 15
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-05 ; Times: 6
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-07 ; Times: 16
+	Date: 2020-07-06 ; Times: 3
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-31 ; Times: 4
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-15 ; Times: 4
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "41449" ; Times: 1
+	Query: "fieldnumber:2451" ; Times: 1
+	Query: "genus:Contogenys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "YPM 35101" ; Times: 2
+	Query: "SP 22149" ; Times: 2
+	Query: "Texas turtles" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "genus:Parectypodus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "hastypestatus:1 Lutra" ; Times: 11
+	Query: "genus:Allognathosuchus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "catalognumber:014733 institutioncode:YPM" ; Times: 2
+	Query: "class:mammalia continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "genus:Stygiochelys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "BMNH 1899" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "Pseudalopex culpaeus" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "catalognumber:014715 institutioncode:YPM" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "(hyaenodon) institutioncode:YPM" ; Times: 2
+	Query: "genus:Habrosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "catalognumber:014725 institutioncode:YPM" ; Times: 1
+	Query: "Capricornis" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "genus:Boremys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "invasive species" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "james bond" ; Times: 1
+	Query: "James Bond" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "genus:Scapherpeton continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Saurornithoides" ; Times: 1
+	Query: "genus:Habrosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Xyronomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 2
+	Query: "genus:Conacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "M-16350" ; Times: 2
+	Query: "catalognumber:014713 institutioncode:YPM" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "genus:Ectoconus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Champsosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 6
+	Query: "AMNH 56830" ; Times: 1
+	Query: "catalognumber:014716 institutioncode:YPM" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "saurornithoides" ; Times: 1
+	Query: "catalognumber:014721 institutioncode:YPM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 940 download events in this period)
+Total number of records downloaded: 1246
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 25
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-25 ; Times: 13
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-28 ; Times: 2
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Contogenys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "class:Amphibia haslength:1" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "genus:Parectypodus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "genus:Allognathosuchus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "genus:Stygiochelys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "Pseudalopex culpaeus" ; Times: 1
+	Query: "genus:Smilodon" ; Times: 1
+	Query: "genus:Judithemys continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Conacodon continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Habrosaurus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "class:Amphibia bakeri" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "genus:Scapherpeton continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Saurornithoides" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "genus:Xyronomys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "genus:Boremys continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Ectoconus continent:North America (Paleogene OR Paleocene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "genus:Champsosaurus continent:North America (Paleocene OR Paleogene OR Puercan) basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+
+
+End of report.
