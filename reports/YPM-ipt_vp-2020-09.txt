@@ -1,0 +1,126 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 89
+Number of records retrieved in searches: 461
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 63
+	Country: Greece ; Times: 10
+	Country: Switzerland ; Times: 5
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 34
+	Date: 2020-09-18 ; Times: 12
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-19 ; Times: 2
+	Date: 2020-09-09 ; Times: 5
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-23 ; Times: 3
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 5
+	Date: 2020-09-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Phorusrhacidae" ; Times: 2
+	Query: "32708" ; Times: 1
+	Query: "titanoides" ; Times: 2
+	Query: "Unionidae" ; Times: 1
+	Query: "C.G. Harold" ; Times: 1
+	Query: "ypm 167 mammal" ; Times: 1
+	Query: "red panda" ; Times: 5
+	Query: "apes" ; Times: 1
+	Query: "scientificname:Ailuropoda melanoleuca" ; Times: 32
+	Query: "genus:Aspideretes" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "family:Rhinocerotidae country:Greece" ; Times: 7
+	Query: "YPM 4056" ; Times: 2
+	Query: "family:Rhinocerotidae country:&#34;Greece&#34;" ; Times: 3
+	Query: "horseshoe crab" ; Times: 6
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "dolichops" ; Times: 1
+	Query: "scientificname:Pongo pygmaeus" ; Times: 3
+	Query: "GEN 820" ; Times: 1
+	Query: "vntype:specimen institutioncode:YPM" ; Times: 1
+	Query: "Barylambda" ; Times: 2
+	Query: "scientificname:Pongo Pygmaeus" ; Times: 1
+	Query: "order:cetacea stateprovince:&#34;massachusetts&#34; institutioncode:YPM" ; Times: 1
+	Query: "YPM 13962" ; Times: 3
+	Query: "Python molurus" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Chelicerata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 976 download events in this period)
+Total number of records downloaded: 602
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Brazil ; Times: 2
+	Country: Greece ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Ghana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-13 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Phasianidae continent:Africa" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "specificepithet:primigenius genus:mammuthus" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Tympanuchus" ; Times: 1
+	Query: "ostrich" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "family:Rhinocerotidae country:&#34;Greece&#34;" ; Times: 1
+
+
+End of report.
