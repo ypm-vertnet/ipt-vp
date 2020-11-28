@@ -1,0 +1,157 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 716
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 44
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-19 ; Times: 2
+	Date: 2020-10-13 ; Times: 16
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-16 ; Times: 1
+	Date: 2020-10-17 ; Times: 2
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-28 ; Times: 4
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 2
+	Date: 2020-10-25 ; Times: 5
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 2
+	Date: 2020-10-30 ; Times: 2
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-02 ; Times: 4
+	Date: 2020-10-05 ; Times: 8
+	Date: 2020-10-04 ; Times: 1
+	Date: 2020-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "titus canyon formation" ; Times: 2
+	Query: "Anchisaurus" ; Times: 1
+	Query: "scientificname:Gulo gulo" ; Times: 1
+	Query: "44356" ; Times: 2
+	Query: "coelacanthus" ; Times: 1
+	Query: "41813" ; Times: 1
+	Query: "044816" ; Times: 1
+	Query: "PUCRS" ; Times: 1
+	Query: "pikas" ; Times: 3
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "sharks" ; Times: 1
+	Query: "apes" ; Times: 1
+	Query: "AMNH 16039" ; Times: 4
+	Query: "recordedby:Beckwith" ; Times: 3
+	Query: "crocodyle" ; Times: 1
+	Query: "Colombia Perico" ; Times: 1
+	Query: "54851" ; Times: 1
+	Query: "pangolin" ; Times: 5
+	Query: "Axis axis" ; Times: 2
+	Query: "titus canyon" ; Times: 3
+	Query: "YPM" ; Times: 1
+	Query: "family:sirenidae institutioncode:YPM" ; Times: 3
+	Query: "Homo sapiens" ; Times: 6
+	Query: "order:primates stateprovince:&#34;arusha&#34;" ; Times: 2
+	Query: "33842" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "Iguanodon bernissartensis" ; Times: 1
+	Query: "manouria" ; Times: 1
+	Query: "37567" ; Times: 1
+	Query: "42514" ; Times: 1
+	Query: "class:mammalia county:&#34;san diego&#34; stateprovince:&#34;california&#34; institutioncode:YPM" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "Colombia La Cruz" ; Times: 1
+	Query: "43733" ; Times: 1
+	Query: "genus:Galeocerdo stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "185995" ; Times: 1
+	Query: "Franklin 1888" ; Times: 1
+	Query: "lemurs" ; Times: 1
+	Query: "fieldnumber:3237" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1521 download events in this period)
+Total number of records downloaded: 40594
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 1
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-26 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-02 ; Times: 3
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-31 ; Times: 5
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:Mus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; year &gt;= 1800 year &lt;= 1925" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "vntype:specimen genus:pongo" ; Times: 1
+	Query: "family:elephantidae" ; Times: 1
+	Query: "order:SQUAMATA stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "recordedby:Beckwith" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "class:Mammalia continent:North America year &gt;= 1800 year &lt;= 2015 institutioncode:YPM" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "pangolin" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "Myotis" ; Times: 1
+	Query: "Gulo gulo" ; Times: 1
+	Query: "mammals Chile" ; Times: 1
+	Query: "canis fossil" ; Times: 1
+	Query: "order:pholidota" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 2
+	Query: "family:Heteromyidae isfossil:1" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 3
+
+
+End of report.
