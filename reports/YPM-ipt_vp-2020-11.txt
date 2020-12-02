@@ -1,0 +1,164 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 469
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: France ; Times: 1
+	Country: United States ; Times: 53
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 14
+	Country: Colombia ; Times: 1
+	Country: Greece ; Times: 4
+	Country: Belgium ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 3
+	Date: 2020-11-21 ; Times: 1
+	Date: 2020-11-22 ; Times: 8
+	Date: 2020-11-23 ; Times: 6
+	Date: 2020-11-19 ; Times: 5
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-17 ; Times: 4
+	Date: 2020-11-05 ; Times: 4
+	Date: 2020-11-02 ; Times: 10
+	Date: 2020-11-10 ; Times: 24
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-29 ; Times: 2
+	Date: 2020-11-24 ; Times: 12
+	Date: 2020-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Oligokyphus" ; Times: 2
+	Query: "South American toads" ; Times: 1
+	Query: "scientificname:Scalopus aquaticus" ; Times: 4
+	Query: "family:Elephantidae skull" ; Times: 1
+	Query: "scientificname:Lepus americanus" ; Times: 2
+	Query: "ansp artiodactyla" ; Times: 2
+	Query: "scientificname:Gulo gulo" ; Times: 2
+	Query: "37865" ; Times: 1
+	Query: "genus:Alligator stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Redpath Museum" ; Times: 1
+	Query: "Elephantidae skull" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "scientificname:Zapus hudsonius" ; Times: 1
+	Query: "sharks" ; Times: 1
+	Query: "birds skeletons" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 5
+	Query: "genus:saurornithoides" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "L. Koch" ; Times: 1
+	Query: "catalognumber:010500 institutioncode:YPM" ; Times: 2
+	Query: "scientificname:Sus scrofa" ; Times: 1
+	Query: "Eryops" ; Times: 2
+	Query: "Seymouria" ; Times: 2
+	Query: "institutioncode:YPM" ; Times: 2
+	Query: "scientificname:Homo neanderthalensis" ; Times: 1
+	Query: "catalognumber:017123 institutioncode:YPM" ; Times: 1
+	Query: "50647" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34; institutioncode:YPM basisofrecord:FossilSpecimen" ; Times: 2
+	Query: "Homo sapiens" ; Times: 7
+	Query: "47889" ; Times: 1
+	Query: "scientificname:Mephitis mephitis" ; Times: 2
+	Query: "TEXAS COYOTES" ; Times: 2
+	Query: "vntype:specimen genus:Marmota stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "&#34;Deep River&#34; Connecticut" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "coral snakes" ; Times: 1
+	Query: "recordedby:A. T. Peterson" ; Times: 1
+	Query: "scientificname:Cervus elaphus" ; Times: 4
+	Query: "scientificname:Castor Canadensis" ; Times: 2
+	Query: "scientificname:Bison bison" ; Times: 4
+	Query: "family:Rhinocerotidae country:&#34;Greece&#34;" ; Times: 4
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34; YPM" ; Times: 4
+	Query: "Eryops Megacephalus" ; Times: 4
+	Query: "scientificname:Marmota monax" ; Times: 2
+	Query: "Ichthyostega" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "vntype:specimen genus:Synaptomys stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "genus:Odontaspis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "53616" ; Times: 1
+	Query: "51561" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 842 download events in this period)
+Total number of records downloaded: 5593
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 24
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 2
+	Date: 2020-11-22 ; Times: 2
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-06 ; Times: 3
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 4
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-02 ; Times: 1
+	Date: 2020-11-03 ; Times: 2
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-10 ; Times: 1
+	Date: 2020-11-28 ; Times: 1
+	Date: 2020-11-12 ; Times: 3
+	Date: 2020-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "camelopardalis" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "podocnemis" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Rangifer tarandus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Alces" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34;" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "Canis latrans" ; Times: 1
+	Query: "vntype:specimen genus:Pongo continent:Asia" ; Times: 1
+	Query: "Sigmodon hispidus" ; Times: 2
+	Query: "Peromyscus polionotus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Connecticut&#34; YPM" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Erethizon" ; Times: 1
+	Query: "Marmota monax" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 2
+	Query: "Bison bison" ; Times: 1
+	Query: "Castor canadensis" ; Times: 1
+
+
+End of report.
