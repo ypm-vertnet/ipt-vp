@@ -1,0 +1,143 @@
+Report for Institution Code YPM, Resource ipt_vp
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 232
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 59
+	Country: Denmark ; Times: 1
+	Country: Finland ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-08 ; Times: 6
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-04 ; Times: 6
+	Date: 2020-12-03 ; Times: 1
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-01 ; Times: 10
+	Date: 2020-12-25 ; Times: 27
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 2
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 3
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 3
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "YPM 46577" ; Times: 1
+	Query: "YPM 40963" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Titanosaurus" ; Times: 1
+	Query: "James Bond" ; Times: 1
+	Query: "ypm 006020" ; Times: 2
+	Query: "ypm 006021" ; Times: 1
+	Query: "Ailuropoda" ; Times: 1
+	Query: "recordedby:felton" ; Times: 1
+	Query: "ostariostoma" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 2
+	Query: "ypm 40084" ; Times: 1
+	Query: "Walter lucas" ; Times: 1
+	Query: "William Hair" ; Times: 2
+	Query: "genus:erethizon isfossil:1" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "genus:Ailuropoda" ; Times: 3
+	Query: "ypm 47638" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "William Han" ; Times: 2
+	Query: "skull bone tibia femur" ; Times: 1
+	Query: "ypm 50408" ; Times: 1
+	Query: "plantae" ; Times: 1
+	Query: "YPM 20592" ; Times: 1
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "scientificname:Galeocerdo cuvier" ; Times: 1
+	Query: "Aepyornithiformes" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "YPM 15942" ; Times: 1
+	Query: "488100" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "ypm 014907" ; Times: 2
+	Query: "Mosasaurus" ; Times: 1
+	Query: "006021" ; Times: 2
+	Query: "ypm 018243" ; Times: 2
+	Query: "014892" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "YPM 45357" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "specificepithet:melanoleuca genus:Ailuropoda" ; Times: 13
+	Query: "YPM 10059" ; Times: 2
+	Query: "35966" ; Times: 1
+	Query: "(red panda)" ; Times: 1
+	Query: "scientificname:Pristis pristis" ; Times: 2
+	Query: "Ypm 006021" ; Times: 1
+	Query: "invasive species" ; Times: 4
+	Query: "484792" ; Times: 1
+	Query: "scientificname:Crenidens crenidens" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "Mammals county:&#34;Ocean&#34; stateprovince:&#34;New Jersey&#34; country:&#34;USA&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 705 download events in this period)
+Total number of records downloaded: 116
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-02 ; Times: 5
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "Viperidae" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Anas" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "family:anatidae" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+
+
+End of report.
